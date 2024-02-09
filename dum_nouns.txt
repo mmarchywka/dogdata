@@ -1,0 +1,5 @@
+MACRONOUN canon MACRONOUN  adj delta adj small
+food canon food  density 7grams/tsp runits grams
+X-1 canon X-1  density 3grams/tsp runits grams
+X-2 canon X-2  density 5grams/tsp runits grams
+beef20 canon meat  density 2grams/tsp runits grams

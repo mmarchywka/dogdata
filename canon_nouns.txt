@@ -1,0 +1,371 @@
+MACRONOUN canon MACRONOUN  adj delta adj small 
+eyedrops canon eyemedicine  adj creams,drops,ointment,steroid flags default  startdate 2023-03-28  group medicine,eye text "generic eye medicine drops or cream see comments "  
+eyedrops canon eyemedicine  adj creams,drops,ointment,antibiotic,steroid  startdate 2023-03-28  group medicine,eye,antibiotic text "generic eye medicine drops or cream see comments "  
+goatmilk canon goatmilk
+treats canon treats group generic 
+K1bs canon K1 group vitamin text "bulk supplements 1 percent K1" flags default  enddate 2021-03-05
+# bad for overlap 
+K1bs canon K1 group vitamin  text adj maltodextrin "bulk supplements 1 percent K1"  startdate 2021-03-05
+01KC canon 01KC  enddate 2019-12-30 text "citric acid withou morton salt substitute "
+#01PC canon 01PC
+10KC canon 10KC enddate 2019-12-30 text " morton salt substictue without ctric acid"
+#KCl canon 10KC
+10PC canon 10PC  text "Kcl without citric acid" expand 1 serving .25tsp part ,KCl,.25tsp
+11KC canon 11KC enddate 2019-12-30 text "morton salt substitute and citric acid"
+#01PC canon 01PC runits serving expand 1 serving .25tsp part ,citrate,.25tsp 
+#01PC canon 01PC group food,spice,electrolyte
+01PC canon 01PC group food,spice,electrolyte serving 1qtsp expand 1 part citrate,.25tsp
+#01PC canon 01PC 
+#11PC canon 11PC runits serving expand 1 serving .25tsp part citrate,.25tsp part KCl,.25tsp
+#11PC canon 11PC runits serving expand 1 serving .25tsp part ,citrate,.25tsp,KCl,.25tsp
+#11PC canon 11PC runits serving expand 0 serving .25tsp part ,KCl,.25tsp,citrate,.25tsp
+11PC canon 11PC runits tsp expand 1 serving .25tsp part ,KCl,.25tsp,citrate,.25tsp group food,spice,electrolyte
+#11PC canon 11PC
+citrate canon citrate density .989g/qtsp runits tsp group food,spice 
+salt canon salt runits tsp text "morton iodized salt"  group electrolyte
+sugar canon sugar runits tsp  text "granulated table sugar" group carbohydrate
+KCl canon KCl runits tsp density 1.070g/qtsp serving .25tsp group electrolyte,food
+kcl canon KCl  group electrolyte,food
+arginine canon arginine group "amino acid,vitamin"
+#argininehcl canon arginine group "amino acid" startdate 2021-05-28  density 3000mg/tsp 
+#argininehcl canon arginine group vitamin,"amino acid" startdate 2021-05-28 runits mg density 3000mg/tsp 
+# remeasured 2022-04-24 but presume long standing difference although 
+# I did not reset calibration today full scale better than this.. 
+argininehcl canon arginine group vitamin,"amino acid" startdate 2021-05-28 runits mg density 2800mg/tsp 
+B-1 canon B-1  adj NOW  group vitamin enddate 2021-10-07 
+B-1 canon B-1  adj nutricost startdate 2021-10-18 enddate 2023-01-30  group vitamin
+B-1 canon B-1  adj bs startdate 2023-01-30  group vitamin text "22mg/ 64th and 47mg/32nd"  
+#B-100 canon B-100
+B-100 canon B-100 enddate 2021-05-24 group vitamin serving 1count url "https://www.gnc.com/bogo-50-gnc-brands/055103.html?productId=16513146" expand 0 part ,"B-1,100mg,B-2,100mg,B-3,100mg,B-6,100mg,folate,400mcg,B-12,100 mcg,biotin,.100mg,pantothenate,100mg,B-1,100mg,Choline Bitartrate,100mg,Inositol,100mcg,PABA,30mg,cellulose,1rank"  ingredients "B-2,100mg,Niacinamide,100mg,Pyridoxine Hydrochloride,100mg,Folic Acid,400mcg,Cyanocobalamin,100 mcg,Biotin,100mcg,Calcium d-Pantothenate,100mg,Thiamin Mononitrate,100mg,Choline Bitartrate,100mg,Inositol,100mcg,PABA,30mg,cellulose,1rank"
+multiB canon B-multi group vitamin startdate 2021-05-24 serving 1count expand 0 part ,"B-1,100mg,B-2,100mg,B-3,100mg,B-6,100mg,folate,670mcg,B-12,100 mcg,biotin,.100mg,pantothenate,100mg,B-1,100mg,Choline Bitartrate,39mg,Inositol,100mg,PABA,100mg,cellulose,1rank"  ingredients "B-2,100mg,Niacinamide,100mg,Pyridoxine Hydrochloride,100mg,Folic Acid,670mcg,Cyanocobalamin,100 mcg,Biotin,100mcg,Calcium d-Pantothenate,100mg,Thiamin Mononitrate,100mg,Choline Bitartrate,100mg,Inositol,100mcg,PABA,30mg,cellulose,1rank"
+#multiB canon multiB startdate 2021-05-24 text "purely holistic Super B-Complex" adj purely adj holistic   
+b10ngnc canon b10ngnc group food,meat
+B-12 canon B-12 group vitamin  runits mg
+folate canon folate group generic,vitamin  runits mg adj nutricost text "nutricost 1000mcg capsules " startdate 2021-05-30
+B-12 canon B-12 group vitamin  startdate 2020-10-28 adj nutricost runits mg serving 2mg flags default
+t15r canon turkey text "ground turkey with rosemary 15 pct fat "  group food,meat
+t3r canon turkey text "ground turkey with rosemary 3 pct fat "  startdate 2024-01-08 group food,meat
+t7r canon turkey text "ground turkey with rosemary 7 pct fat "  group food,meat
+b15ng canon b15ng group food,meat
+b15ngnc canon b15ngnc group food,meat
+B-2 canon B-2 adj nutricost  group vitamin flags default enddate 2023-08-25
+B-2 canon B-2 startdate 2022-05-05 adj bs  group vitamin density 514mg/qtsp  text " 1/32 on 2023-07-05 about 60mg so 500mg/qtsp ok remeasure 2023-08-24 175mg(1/16 tsp ) or 50-80mg per 1/32 tsp  "
+b20ng canon b20ng group food,meat
+b20ngnc canon b20ngnc group food,meat
+b25ngnc canon b25ngnc group food,meat
+marrow canon marrow group food,meat,organ
+B-3 canon B-3 adj bs group vitamin enddate 2023-05-25
+B-3 canon B-3 group generic,vitamin  enddate 2023-05-25
+B-3 canon B-3 group generic,vitamin  adj nutricost  startdate 2023-05-25 text "nutricost B-3 density almost exacty 95mg / /32tsp "  density 3040mg/tsp
+# the error messages are confusing here, doh TODO FIXME
+#D-3 canon D-3 adj kroger units iu runits iu 
+#D-3 canon D-3 adj kroger units iu runits IU punit IU,1iu serving 1iu
+D-3 canon D-3 adj kroger enddate 2021-07-01 group vitamin units iu runits iu punit iu,1iu serving 1iu
+D-3 canon D-3 adj NOW  startdate 2021-07-04 group vitamin units iu runits iu punit iu,1iu serving 1iu
+#SNB-3 canon B-3
+B-6 canon B-6 adj sundown  enddate 2021-05-31 group vitamin 
+B-6 canon B-6 group generic enddate 2021-05-31  flags default group vitamin
+B-6 canon B-6 group generic,vitamin adj nutricost startdate 2021-06-01 enddate 2023-03-19 text "nutricost 100mg pyridoxine" 
+B-6 canon B-6 group generic,vitamin adj bs startdate 2023-03-19 text "bs powder 48mg/64th 120mg/32nd" 
+b7ngnc canon b7ngnc group food,meat
+b8ngnc canon b9ngnc group food,meat
+# the serving is a stupid thing to get expansion to work 
+# but this needs to be fixed. Expansion will work without
+# it but uses wrong units 
+# ths now sort of works but klugey
+biotin canon biotin enddate 2021-09-05 group vitamin adj nutricost,NOW runits mg serving 10mg
+biotin canon biotin startdate 2021-09-06 group vitamin adj bs runits mg density 2.88g/tsp text " pure powder in plastic bag about 45mg per 1/64 tsp " 
+bor-l-immune canon bor-l-immune adj drops group medicine
+brush canon brush 
+# in aka_nouns
+#bssngnc canon bssngnc
+canned canon canned group generic,food,"dog food"
+interceptorplus canon  interceptorplus group medicine,worm
+entyce canon entyce  group medicine
+benadryl canon benadryl group medicine 
+provitaforte canon provitaforte group medicine
+cliver canon cliver group food,chicken,organ
+spinach canon spinach flags default enddate 2021-05-01 group food,vegetable
+spinach canon spinach adj raw   group food,vegetable 
+spinach canon spinach  adj birdseye adj frozen adj fresh  group food,vegetable
+# wanted to drop the publix frozen adjective at some point
+spinach canon spinach  adj publix adj frozen enddate 2021-05-01 group food,vegetable
+spinach canon spinach  adj publix adj frozen startdate 2021-08-07  group food,vegetable
+spinach canon spinach  adj gv  startdate 2024-01-10 group food,vegetable,frozen  text " great value ie WMT frozen spinach "
+spinach canon spinach  adj kroger  startdate 2021-07-17 group food,vegetable 
+spinach canon spinach  adj delmonte  startdate 2021-07-20 group food,vegetable 
+spinach canon spinach  adj publix adj frozen startdate 2021-05-02 enddate 2021-07-17 flags default  group food,vegetable
+tuna canon tuna runits oz  group food,fish
+carrot canon carrot adj chunk group food,vegetable
+carrots canon carrot group food,vegetable 
+cephalexin canon cephalexin group antibiotic,drug,medicine
+cerenia canon cerenia group medicine
+chili canon chili group food,vegetable,spice
+tomato canon tomato group food,vegetable adj fresh,roma text " fresh tomato from various stores " startdate 2023-05-16
+cherry canon cherry  group food,fruit adj fresh text " fresh cherries from various stores " startdate 2023-06-21
+raspberry canon raspberry  group food,fruit adj fresh text " fresh raspberries  from various stores caution for xylitol content etc  " startdate 2023-09-18
+pineapple canon pineapple group food,fruit adj fresh text " fresh pineapple pieces   " startdate 2023-12-18
+blackberry canon blackberry  group food,fruit adj fresh text " fresh blackberries  from various stores caution for xylitol content etc  " startdate 2023-11-25
+pepper canon pepper group food,vegetable adj green,red,yellow text " fresh peppers  " startdate 2023-05-25
+blueberry canon blueberry group food,fruit adj fresh flags default text " fresh blueberries from various stores " startdate 2023-05-16
+blueberries canon blueberry group food,fruit adj fresh flags default text " fresh blueberries from various stores " startdate 2023-05-16
+blueberries canon blueberry group food,fruit adj large,fresh  text " fresh blueberries from various stores " startdate 2023-10-01
+blueberries canon blueberry group food,fruit adj fresh,organic  text " fresh blueberries from various stores " startdate 2023-09-26
+deramaxx canon deramaxx group medicine
+furosemide canon furosemide group drug,diuretic,medicine
+miscmed canon miscmed group medicine
+spironolactone canon spironolactone  group drug,diuretic,medicine
+clindamycin canon clindamycin group drug,antibiotic,medicine
+azithromycin canon azithromycin group drug,antibiotic,medicine
+gabapentin canon gabapentin group drug,medicine
+apoquel canon apoquel  group drug,medicine
+coconutoil canon coconutoil group oil,fat,test,food
+coffee canon coffee group food,spice,test
+nahco canon nahco text "unknown home made thing for Hershey"
+cooked canon cooked  group generic,food  text "usually cooked meet vague like caned"
+flour canon flour  group food
+pimobendan canon  pimobendan group drug,medicine
+cbbroth canon cbbroth group food,meat,chicken
+cxbroth canon cbbroth startdate 2022-01-12 text "boneless skinless breast meat wth thigh broth "  group food,meat,chicken
+cbbrothbs canon cbbrothbs group food,meat,chicken
+clbrothbs canon clbrothbs group food,meat,chicken
+ctbrothb canon ctbrothb group food,meat,chicken
+ctbrothbs canon ctbrothbs group food,meat,chicken
+ctbroth canon ctbroth group food,meat,chicken
+ctbroths canon ctbroths group food,meat,chicken
+ctskin canon ctskin group food,meat,chicken
+ctskinbs canon ctskinbs group food,meat,chicken
+ctskinb canon ctskinb group food,meat,chicken
+Cu canon Cu group metal,mineral,vitamin adj glycinate adj carlson
+# this is using metal weright per volume but need to be careful here 
+Cu canon Cu group metal,mineral,vitamin startdate 2023-03-19 adj gluconate adj bs text "2mgCu/14mg per bag and 31mg/64th tsp or 4mgCu/64th"  runits mg density 64mg/qtsp
+Cu canon Cu group metal,mineral,vitamin adj citrate flags default
+#optizn canon Zn group metal  active Zn
+optizn canon Zn group metal,mineral,vitamin  serving 1g part ",Zn,1g"
+Zn canon zn group metal,mineral,vitamin
+zn canon zn runits mg group metal,mineral,vitamin
+#ZnCitrate canon ZnCitrate density 4500mg/tsp expand 1 group metal text " measured in weight of product not active ingredient actually in volume, varies from 3200mg/tsp in 1/64 to 6032 in 1/64 giving as much as 31mg/Zn per 1/64 tsp "  active Zn serving 150mg part ",Zn,50mg"
+ZnCitrate canon ZnCitrate density 4500mg/tsp expand 1 group metal,vitamin,mineral text " measured in weight of product not active ingredient actually in volume, varies from 3200mg/tsp in 1/64 to 6032 in 1/64 giving as much as 31mg/Zn per 1/64 tsp " serving 150mg part ",Zn,50mg"
+Se canon Se startdate 2021-09-07 density 200mcg/qtsp expand 0 group metal,vitamin,mineral  text " a 100mcg pill is about 1/8 tsp   "
+Fe canon iron startdate 2023-11-17 group metal,vitamin,mineral  text " spring valley from WMT 65mg " runits mg
+propectalin canon pectalin group medicine
+Panacur canon Panacur
+pectalin canon pectalin group medicine
+water canon water group drink,food
+pasta canon pasta group humanfood,food
+scraps canon scraps group humanfood group food,humanfood,vague,generic
+doxycycline canon doxycycline group antibiotic,medicine,drug
+gentamicin canon gentamicin  group antibiotic,medicine,drug
+smz-tmp  canon smz-tmp  group antibiotic,medicine,drug startdate 2023-06-21 text "BACTRIM, sulfamethoxazole and trimethoprim hyponatremia, nyperkaleima, folate and phenylalanine issues  "
+# TODO this was an AKA def in early non-MUQED data not
+# sure if this looks like a macro def 
+GED canon gentamicin  group antibiotic,medicine,drug flags default
+cefpodoxime canon cefpodoxime group antibiotic,medicine,drug
+sentinelspectrum canon sentinelspectrum  group drug,medicine
+sentinel canon sentinelspectrum adj spectrum   group drug,medicine
+nextgard canon nextgard  group drug,medicine
+comfortis canon comfortis group drug,medicine
+diroban canon diroban  group drug,heartworm,medicine
+panacurc canon panacurc group worm,drug,medicine
+ketoconazole canon ketoconazole group drug,medicine
+clavamox canon clavamox  group drug,antibiotic,medicine
+Clavamox canon clavamox  group drug,antibiotic,medicine
+clavicillin canon clavicillin  group drug,antibiotic,medicine
+enrofloxacin canon  enrofloxacin group drug,antibiotic
+cipro,ciprofloxacin canon  ciprofloxacin group drug,antibiotic
+#cipro canon  ciprofloxacin group drug,antibiotic
+carprofen canon carprofen group drug,pain
+carprovet canon carprofen group drug,pain
+vetprofen canon carprofen group drug,pain
+metacam canon metacam  group drug,pain
+phenobarbitol canon phenobarbitol group drug,medicine,sedative
+d-serine canon d-serine group "amino acid",vitamin
+eggshell eggshell group food
+egg canon eggo group food
+eggo3 canon eggo3 group food  text "Egglands Best omega 3 etc "
+eggbr canon egg group food  text "Greenwise brown eggs  " startdate 2022-08-02
+FleaAway canon FleaAway group drug,medicine
+garlic canon garlic adj minced group food group food,spice,herb
+nogarlic ignore  
+habanero canon habanero group food,spice
+histidinehcl canon histidinehcl group vitamin,"amino acid" density 5488mg/tsp
+HMCu canon HMCU
+HMCU canon HMCU
+kelp canon kelp 
+LESI canon Iodine serving 1mg  group vitamin,elemental  startdate 2017-09-06 text "LESI Life Extensions Sea Iodine 1000mcg"
+KI canon Iodine group vitamin,elemental  startdate 2023-07-05 text "bulk KI about 130mg/(1/64 tsp) iAZ lab from china, see Amazon "
+nwkelp canon Iodine
+isoleucine canon isoleucine group "vitamin,pure,supplement,amino acid"
+ivermectin canon Ivermectin group drug,medicine,worm
+nuheart canon Ivermectin group drug,worm,heartworm,medicine adj small,medium
+triworm  canon wormer group drug,worm,medicine 
+wormxp canon wormer text "sentry wormxplus" group drug,worm,medicine 
+Ivermectin canon Ivermectin group drug,medicine,worm
+jalapeno canon jalapeno group food,spice
+K2 canon K2 group vitamin adj ri  text "relentless improvements two varieties " enddate 2022-05-20 
+# doh "sample" is also a noun for lab analysis 
+K2 canon K2 group vitamin text "Chinese import sample MK-4 25mg per 1/64 tsp   " startdate 2023-05-20  density 1600mg/tsp runits mg adj Sample 
+K2 canon K2 group vitamin adj LE  text "Life Extension Mega K2 45mg MK-4 " startdate 2022-05-21 
+MK7 canon K2 group vitamin text "Nutricost  MK-7 " startdate 2023-05-16
+#kibble canon kibble group food,dogfood,dryfood
+Kibble canon kibble group food,commercial,generic,dogfood
+#KibbleEliteSeriesBeef canon kibble group food,dogfood
+#KibbleMixDiamondJourney canon kibble group food,dogfood
+lecithin canon lecithin enddate 2021-04-02 serving 1200lecu runits lecu   group vitamin,"amino acid"
+lecithin canon lecithin startdate 2021-04-03 flags default serving 1qtsp punit tsp,3600mg density 900mg/qtsp runits mg   group vitamin,emulsifier
+sfseed canon sunflowerseed startdate 2023-08-14 flags default  group food,seed text " yupik shelled sunflower seeds " 
+lecithin canon lecithin startdate 2023-03-14 serving 1qtsp  adj liquid  group vitamin,emulsifier
+leucine canon leucine group "vitamin,pure,supplement,amino acid"
+lipoicacid canon lipoicacid group vitamin,"SMVT substrate" adj drop adj drops adj natural adj best adj naturals adj bestnaturals
+lipoicacid canon lipoicacid group vitamin,"SMVT substrate"  runits mg  adj bs startdate 2023-05-03 -text "bulk supplements pure powder 67mg per 1/32 but 171mg/ 1/16 tsp measure 2023-10-26 25,50,150mg for 64th,32nd,16th wtf " density 600mg/qtsp   
+lysine canon lysine group "vitamin,amino acid"
+lysinehcl canon lysinehcl group "vitamin,amino acid"
+metasilicate canon metasilicate
+vinegar canon vinegar startdate 2022-08-29 adj white group food,spice text "possible anti-ventriculi " 
+sbenz canon sodiumbenzoate group medicine,antibiotic,antioxidant,preservative  density  .788g/qtsp  text "sodium benzoate powder" 
+sorbitol canon sorbitol group sweenter,antibiotic,antioxidant,preservative    text "sweetner with solvent and medicinal value " 
+methionine canon methionine group "vitamin,amino acid"
+metronidazole canon metronidazole flags default group medicine,drug,antibiotic
+#  nuxvomica 1 HeartQiTonic
+# Amoxicillin/Clavulanate
+HeartQiTonic canon HeartQiTonic group homeopathic,medicine text " from Dr. Parker at Atl Center for Animal Osteopathy against my strong advice" startdate 2023-02-03  
+nuxvomica canone nuxvomica group homeopathic,medicine text "from Dr. Parker at Atl Center for Animal Osteopathy against my strong advice." startdate 2023-02-03 
+amoxicillin canon  amoxicillin group medicine,antibiotic startdate 2023-02-03 text "may include clavulanate etc " 
+clavacillin canon clavacillin group antibiotic,medicine,drug serving 375mg punit pill,375mg
+metronidazole canon metronidazole group antibiotic,medicine,drug serving 50mg punit pill,50mg
+# TODO need to accomodate "lbs" or other derviced units on syringe for data entry
+meloxidyl canon meloxidyl group pain text " syringe is calibrated in lbs of body weight prescribed at 55 lbs. Box says .2mg/kg  must beloading  but PI says .1mg/kg MAINTENANCE  and 1.5mg/ml  "  serving 3.33ml punits ,1.66ml  url "http://www.meloxidyl.com/wp-content/uploads/2014/11/Meloxidyl-Package-Insert.pdf"
+# need to check density and fraction Mg
+# 2023-09-18 for now just indidate what it really is 
+#Mgcitrate canon Mg group vitamin,mineral
+Mgcitrate canon MgCitrate group vitamin,mineral
+Mn canon Mn group vitamin,mineral enddate 2024-01-10
+Mn canon Mn group vitamin,mineral startdate 2024-01-12 text "carlson 10mg"
+nob15ngnc canon nob15ngnc
+nob20ngnc canon nob20ngnc
+noeggo3 canon noeggo3
+noK2 canon noK2
+oliveoil canon oliveoil group food
+p20ngnc canon p20ngnc group food,meat,pork
+pantothenate canon pantothenate adj nutricost,NOW group vitamin,"SMVT substrate"
+# its claiming expanded nouns must be unique but that should have been fixed 
+# this was due to expanding multiB, now allow one to be default with flag set... 
+#bspantothenate canon pantothenate adj bs runits mg density 2500mg/tsp  group vitamin,"SMVT substrate"
+pantothenate canon pantothenate adj bs flags default runits mg density 2500mg/tsp  group vitamin,"SMVT substrate"
+pantothenic canon pantothenate
+phenylalanine canon phenylalanine group vitamin,"amino acid"
+prednisone canon prednisone group drug,medicine,steroid
+kpws canon salmon text "kroger pacific wild salmon" group food,fish
+kpwsbroth  canon salmon text "kroger pacific wild salmon mostly broth " group food,fish
+ketasalmonbrothbs canon salmon adj atlantic,farmed,sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
+salmonbrothb canon salmon adj alaska,sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
+salmonbrothbs canon salmon adj sockeye,chile,farmed adj pink adj coho  adj kroger adj pacific adj wild group food,fish
+salmonbroth canon salmon adj alaska,atlantic,farmed,sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
+salmonbroths canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
+salmon canon salmon adj alaska,atlantic,sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
+salmons canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
+wildsalmon canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
+salmonskin canon salmon adj sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
+serrano canon serrano group food,spice
+scallop,scallops canon scallop group food,seafood startdate 2022-07-20 adj bay 
+scallopbroth canon scallop group liquid,food,seafood startdate 2022-07-20 adj bay 
+shrimp canon shrimp flags shrimp runits grams group food,seafood
+SnAgOx canon SnAgOx group group medicine,metal,silver,alt
+koil canon koil startdate 2021-01-16 text "vegetable oil and kerosene and metal topical can not remember old name "  group skin,topical,homemade
+SnAg canon SnAg group medicine,metal,silver,alt enddate 2020-09-05 text "SnAg generic " 
+SnAg canon SnAg group medicine,metal,silver,alt startdate 2020-09-06 text "SnAg solder dissolved in arginine or lysinehcl with sweeter taste and easier to eat" 
+#swings canon swings group medicine,metal,silver in aka_nouns
+lachesis canon lacnesis text "apparently a homeopathic " group alt
+vibactra canon vibactra group alt
+#taurine canon taurine density 900mg/qtsp flags default runits mg serving 650mg
+#taurine canon taurine density 900mg/qtsp flags default punits tsp,3600mg runits mg serving 650mg
+# ASSFUCK 
+taurine canon taurine density 3600mg/tsp flags default punit qtsp,900mg runits mg serving 650mg group vitamin
+#taurine canon taurine density 900mg/qtsp adj crap runits mg serving 650mg
+colostrum canon colostrum  group natural,food
+#taurine canon taurine density 3600mg/tsp  runits mg serving 650mg
+# use enddate etc to differentiate between lots of sellers if desired. 
+thgland canon thgland startdate 2021-01-09  enddate 2021-04-25  serving 200mg group natural,food,medicine,organ part ",dte,100mg" text "bovine glandular thyroid claimed thyroxine removed wtfi capsules powdered" ingredients "gelatin,microcrystalline cellulose,magnesium sterate,silica,medium chain triglycerides" UPC upc,8761411358,stock,X002ONHZ5Z,lot,B241629 
+thgland canon thgland startdate 2021-04-26 enddate 2021-06-13  punit capsule,1/8tsp serving 200mg group natural,food,medicine,organ part ",dte,100mg" text "bovine glandular thyroid claimed thyroxine removed wtfi capsules powdered" ingredients "gelatin,microcrystalline cellulose,magnesium sterate,silica,medium chain triglycerides" UPC upc,8761411358,lot,A243450
+thgland canon thgland startdate 2021-06-14 enddate 2021-07-31   punit capsule,1/8tsp serving 200mg group natural,food,medicine,organ part ",dte,100mg" text "bovine glandular thyroid claimed thyroxine removed wtfi capsules powdered" ingredients "gelatin,microcrystalline cellulose,magnesium sterate,silica,medium chain triglycerides" 
+thgland canon thgland startdate 2021-08-01 enddate 2021-09-19 punit capsule,1/8tsp serving 200mg group natural,food,medicine,organ part ",dte,100mg" text "bovine glandular thyroid claimed thyroxine removed wtfi capsules powdered" ingredients "gelatin,microcrystalline cellulose,magnesium sterate,silica,medium chain triglycerides" 
+thgland canon thgland startdate 2021-09-20 punit capsule,1/8tsp serving 200mg group natural,food,medicine,organ part ",dte,100mg" text "bovine glandular thyroid claimed thyroxine removed wtfi capsules powdered" ingredients "gelatin,microcrystalline cellulose,magnesium sterate,silica,medium chain triglycerides" 
+aimeal canon aimeal group food,meal,alt,recipe startdate 2020-12-21 enddate 2021-01-13 text " recipe from hollistic vet for Spicey"   part ",b7ngnc,brocolli,sweet potato"
+aimeal canon aimeal group food,meal,alt,recipe startdate 2021-01-14 text " recipe from hollistic vet for Spicey"   part ",b7ngnc,brocolli,sweet potato,spinach"
+teeth canon teeth
+Temaril-P canon Temaril-P group medicine,drug
+thiosulfate canon thiosulfate
+vet canon vet group medicine,away
+spay canon spay group operation,neuter 
+threonine canon threonine group vitamin,"amino acid" serving 1qtsp runits mg punit tsp,2600mg density 650mg/qtsp
+proline canon proline group vitamin,"amino acid" serving 1qtsp runits mg punit tsp,2600mg density 400mg/qtsp startdate 2023-06-08 enddate 2023-08-19 text "bulk supplement proline powder" 
+proline canon proline group vitamin,"amino acid" serving 1qtsp runits mg punit tsp,2600mg density 400mg/qtsp startdate 2023-08-20 text " density estimated, nutricost proline powder" 
+tryptophan canon tryptophan group vitamin,"amino acid" enddate 2021-09-10 density 360mg/qtsp
+# convert failing wtf - specific type problem? 
+#tryptophan canon tryptophan group vitamin,"amino acid" startdate 2021-09-11 density 920mg/qtsp text " granular not powder like prior bulk supplements much denser" runits mg
+tryptophan canon tryptophan group vitamin,"amino acid" startdate 2021-09-11 enddate 2023-05-24 density 3680mg/tsp text " granular not powder like prior bulk supplements much denser" runits mg
+tryptophan canon tryptophan group vitamin,"amino acid" startdate 2023-05-25 density 2400mg/tsp text " bulk supplements, i ntermediate ensity 234-400 mg per 1/8 tsp " runits mg
+
+
+tyrosine canon tyrosine group vitamin,"amino acid"
+valine canon valine group "vitamin,amino acid"
+# using "iu" as an adjective is wrong, this need to be a private unit with
+# a conversion factor although the reporting units should be ui 
+# copy from D-3
+# D-3 canon D-3 adj kroger enddate 2021-07-01 units iu runits iu punit iu,1iu serving 1iu
+#vitamina canon vitamina group vitamin adj bronson adj iu enddate 2021-02-19
+vitamina canon vitamina group vitamin adj bronson  enddate 2021-02-19 units iu runits iu punit iu,1iu serving 1iu
+vitamine canon vitamine group vitamin adj kroger  startdate 2023-01-17 enddate 2023-07-25 units iu runits iu punit iu,1iu serving 1iu text "180mg or 400 iu  pure alpha but d,l with glycerin etc "
+vitamine canon vitamine group vitamin adj nutricost  startdate 2023-07-22 units iu runits iu punit iu,1iu serving 1iu text " 400 iu  pure alpha but d,l with glycerin etc "
+#vitamina canon vitamina adj NOW  adj iu startdate 2021-02-21
+vitamina canon vitamina group vitamin adj NOW startdate 2021-02-21 units iu runits iu punit iu,1iu serving 1iu
+
+vitaminc canon vitaminc group vitamin adj sundown stardate 2020-11-13  enddate 2021-09-07
+vitaminc canon vitaminc group vitamin adj naturemade  stardate 2021-09-09  enddate 2023-05-14
+#vitaminc canon vitaminc group vitamin adj just  stardate 2023-05-03 density 1200mg/qtsp text "just vitaminc brand 299mg per 64th 132mg per 32nd "
+vitaminc canon vitaminc group vitamin adj just  stardate 2023-05-03 density 1200mg/qtsp text "just vitaminc brand 299mg per 16th 132mg per 32nd "
+weggo3 canon weggo3
+#worm canon worm
+heartworm canon heartworm
+heart canon heartworm
+flea canon flea text "topical or oral flea treatment expired over 10 years etc " 
+heartgard canon heartgard 
+rimadyl canon rimadyl
+yeggo3 canon yeggo3
+accept canon accept group outcome,observation adj prompt,eager 
+weight canon weight group outcome runits lbs adj calculated,est,estimate,estimated
+age canon age group outcome  adj known,calculated,est,estimate,estimated
+#vomit canon vomit group outcome 
+vomit canon vomit group outcome  adj likely,probable,presumed
+cough canon cough group outcome 
+walk canon walk group outcome  adj church,steps,good,stumble
+photo canon photo group outcome,data,image flags alpha vflags file 
+renamed canon aka group tracking flags alpha 
+labresult canon labresult  group data flags alpha vflags file 
+sample canon sample group data  
+vomited canon vomit group outcome  adj probable,presumed
+treat canon treat group generic
+noCu ignore
+noFleAway ignore
+noKibbleDiamond ignore
+noarginine ignore
+notryptophan ignore
+nobiotin ignore
+nochili ignore
+noctbrothbs ignore
+noFleaAway ignore
+noFleAway ignore
+noKibbleDiamond ignore
+nolecithin ignore
+nolipoicacid ignore
+noMgcitrate ignore
+nooliveoil ignore
+nopantothenate ignore
+nopantothenic ignore
+nosalmonbroth ignore
+noshrimp ignore
+nospinach ignore
+nothreonine ignore
+notyrosine ignore
+novaline ignore
+nod-serine ignore
