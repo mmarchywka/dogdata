@@ -279,7 +279,6 @@ lachesis canon lacnesis text "apparently a homeopathic " group alt
 vibactra canon vibactra group alt
 #taurine canon taurine density 900mg/qtsp flags default runits mg serving 650mg
 #taurine canon taurine density 900mg/qtsp flags default punits tsp,3600mg runits mg serving 650mg
-# ASSFUCK 
 taurine canon taurine density 3600mg/tsp flags default punit qtsp,900mg runits mg serving 650mg group vitamin
 #taurine canon taurine density 900mg/qtsp adj crap runits mg serving 650mg
 colostrum canon colostrum  group natural,food
