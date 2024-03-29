@@ -147,7 +147,8 @@ zn canon zn runits mg group metal,mineral,vitamin
 #ZnCitrate canon ZnCitrate density 4500mg/tsp expand 1 group metal text " measured in weight of product not active ingredient actually in volume, varies from 3200mg/tsp in 1/64 to 6032 in 1/64 giving as much as 31mg/Zn per 1/64 tsp "  active Zn serving 150mg part ",Zn,50mg"
 ZnCitrate canon ZnCitrate density 4500mg/tsp expand 1 group metal,vitamin,mineral text " measured in weight of product not active ingredient actually in volume, varies from 3200mg/tsp in 1/64 to 6032 in 1/64 giving as much as 31mg/Zn per 1/64 tsp " serving 150mg part ",Zn,50mg"
 Se canon Se startdate 2021-09-07 density 200mcg/qtsp expand 0 group metal,vitamin,mineral  text " a 100mcg pill is about 1/8 tsp   "
-Fe canon iron startdate 2023-11-17 group metal,vitamin,mineral  text " spring valley from WMT 65mg " runits mg
+Fe canon iron startdate 2023-11-17 group metal,vitamin,mineral  adjective sv text " spring valley from WMT 65mg " runits mg
+Fe canon iron startdate 2024-03-05 group metal,vitamin,mineral  adjective fumarate text " ferrous fumarate bulk supplements about 61-70mg/(1/64 tsp) and 18/55 Fe density is 4.16 for bulk and 1.36 for iron content  " density 1.361g/tsp  runits mg
 propectalin canon pectalin group medicine
 Panacur canon Panacur
 pectalin canon pectalin group medicine
@@ -188,7 +189,8 @@ FleaAway canon FleaAway group drug,medicine
 garlic canon garlic adj minced group food group food,spice,herb
 nogarlic ignore  
 habanero canon habanero group food,spice
-histidinehcl canon histidinehcl group vitamin,"amino acid" density 5488mg/tsp
+histidinehcl canon histidinehcl group vitamin,"amino acid" density 5488mg/tsp enddate 2024-02-15
+histidine canon histidine group vitamin,"amino acid" density 1256mg/qtsp  text "ordered free base by mistake need a density measure yet 314mg/(1/16 tsp) "  startdate 2024-02-16
 HMCu canon HMCU
 HMCU canon HMCU
 kelp canon kelp 
@@ -199,6 +201,7 @@ isoleucine canon isoleucine group "vitamin,pure,supplement,amino acid"
 ivermectin canon Ivermectin group drug,medicine,worm
 nuheart canon Ivermectin group drug,worm,heartworm,medicine adj small,medium
 triworm  canon wormer group drug,worm,medicine 
+qdworm  canon wormer group drug,worm,medicine  text "elanco quad dewoemer weight appropriate chewables " 
 wormxp canon wormer text "sentry wormxplus" group drug,worm,medicine 
 Ivermectin canon Ivermectin group drug,medicine,worm
 jalapeno canon jalapeno group food,spice
@@ -279,6 +282,7 @@ lachesis canon lacnesis text "apparently a homeopathic " group alt
 vibactra canon vibactra group alt
 #taurine canon taurine density 900mg/qtsp flags default runits mg serving 650mg
 #taurine canon taurine density 900mg/qtsp flags default punits tsp,3600mg runits mg serving 650mg
+# ASSFUCK 
 taurine canon taurine density 3600mg/tsp flags default punit qtsp,900mg runits mg serving 650mg group vitamin
 #taurine canon taurine density 900mg/qtsp adj crap runits mg serving 650mg
 colostrum canon colostrum  group natural,food
