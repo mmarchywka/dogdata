@@ -142,8 +142,10 @@ Cu canon Cu group metal,mineral,vitamin startdate 2023-03-19 adj gluconate adj b
 Cu canon Cu group metal,mineral,vitamin adj citrate flags default
 #optizn canon Zn group metal  active Zn
 optizn canon Zn group metal,mineral,vitamin  serving 1g part ",Zn,1g"
-Zn canon zn group metal,mineral,vitamin
-zn canon zn runits mg group metal,mineral,vitamin
+#Zn canon zn group metal,mineral,vitamin
+Zn canon Zn group metal,mineral,vitamin
+#zn canon zn runits mg group metal,mineral,vitamin
+zn canon Zn runits mg group metal,mineral,vitamin
 #ZnCitrate canon ZnCitrate density 4500mg/tsp expand 1 group metal text " measured in weight of product not active ingredient actually in volume, varies from 3200mg/tsp in 1/64 to 6032 in 1/64 giving as much as 31mg/Zn per 1/64 tsp "  active Zn serving 150mg part ",Zn,50mg"
 ZnCitrate canon ZnCitrate density 4500mg/tsp expand 1 group metal,vitamin,mineral text " measured in weight of product not active ingredient actually in volume, varies from 3200mg/tsp in 1/64 to 6032 in 1/64 giving as much as 31mg/Zn per 1/64 tsp " serving 150mg part ",Zn,50mg"
 Se canon Se startdate 2021-09-07 density 200mcg/qtsp expand 0 group metal,vitamin,mineral  text " a 100mcg pill is about 1/8 tsp   "
