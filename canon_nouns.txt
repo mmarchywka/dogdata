@@ -56,7 +56,7 @@ b25ngnc canon b25ngnc group food,meat
 marrow canon marrow group food,meat,organ
 B-3 canon B-3 adj bs group vitamin enddate 2023-05-25
 B-3 canon B-3 group generic,vitamin  enddate 2023-05-25
-B-3 canon B-3 group generic,vitamin  adj nutricost  startdate 2023-05-25 text "nutricost B-3 density almost exacty 95mg / /32tsp "  density 3040mg/tsp
+B-3 canon B-3 group generic,vitamin  adj nutricost  startdate 2023-05-25 text "nutricost B-3 density almost exacty 95mg / /32tsp "  density 3040mg/tsp runits mg
 # the error messages are confusing here, doh TODO FIXME
 #D-3 canon D-3 adj kroger units iu runits iu 
 #D-3 canon D-3 adj kroger units iu runits IU punit IU,1iu serving 1iu
@@ -197,7 +197,8 @@ HMCu canon HMCU
 HMCU canon HMCU
 kelp canon kelp 
 LESI canon Iodine serving 1mg  group vitamin,elemental  startdate 2017-09-06 text "LESI Life Extensions Sea Iodine 1000mcg"
-KI canon Iodine group vitamin,elemental  startdate 2023-07-05 text "bulk KI about 130mg/(1/64 tsp) iAZ lab from china, see Amazon "
+# note density if mg of IODINE per tsp need to fix this 
+KI canon Iodine group vitamin,elemental  startdate 2023-07-05 text "bulk KI about 130mg/(1/64 tsp) iAZ lab from china, see Amazon " density 6365mg/tsp runits mg
 nwkelp canon Iodine
 isoleucine canon isoleucine group "vitamin,pure,supplement,amino acid"
 ivermectin canon Ivermectin group drug,medicine,worm
