@@ -34,7 +34,7 @@ arginine canon arginine group "amino acid,vitamin"
 argininehcl canon arginine group vitamin,"amino acid" startdate 2021-05-28 runits mg density 2800mg/tsp 
 B-1 canon B-1  adj NOW  group vitamin enddate 2021-10-07 
 B-1 canon B-1  adj nutricost startdate 2021-10-18 enddate 2023-01-30  group vitamin
-B-1 canon B-1  adj bs startdate 2023-01-30  group vitamin text "22mg/ 64th and 47mg/32nd"  
+B-1 canon B-1  adj bs startdate 2023-01-30 runits mg density 1.504mg/tsp  group vitamin text "22mg/ 64th and 47mg/32nd"  
 #B-100 canon B-100
 B-100 canon B-100 enddate 2021-05-24 group vitamin serving 1count url "https://www.gnc.com/bogo-50-gnc-brands/055103.html?productId=16513146" expand 0 part ,"B-1,100mg,B-2,100mg,B-3,100mg,B-6,100mg,folate,400mcg,B-12,100 mcg,biotin,.100mg,pantothenate,100mg,B-1,100mg,Choline Bitartrate,100mg,Inositol,100mcg,PABA,30mg,cellulose,1rank"  ingredients "B-2,100mg,Niacinamide,100mg,Pyridoxine Hydrochloride,100mg,Folic Acid,400mcg,Cyanocobalamin,100 mcg,Biotin,100mcg,Calcium d-Pantothenate,100mg,Thiamin Mononitrate,100mg,Choline Bitartrate,100mg,Inositol,100mcg,PABA,30mg,cellulose,1rank"
 multiB canon B-multi group vitamin startdate 2021-05-24 serving 1count expand 0 part ,"B-1,100mg,B-2,100mg,B-3,100mg,B-6,100mg,folate,670mcg,B-12,100 mcg,biotin,.100mg,pantothenate,100mg,B-1,100mg,Choline Bitartrate,39mg,Inositol,100mg,PABA,100mg,cellulose,1rank"  ingredients "B-2,100mg,Niacinamide,100mg,Pyridoxine Hydrochloride,100mg,Folic Acid,670mcg,Cyanocobalamin,100 mcg,Biotin,100mcg,Calcium d-Pantothenate,100mg,Thiamin Mononitrate,100mg,Choline Bitartrate,100mg,Inositol,100mcg,PABA,30mg,cellulose,1rank"
@@ -49,7 +49,7 @@ t7r canon turkey text "ground turkey with rosemary 7 pct fat "  group food,meat
 b15ng canon b15ng group food,meat
 b15ngnc canon b15ngnc group food,meat
 B-2 canon B-2 adj nutricost  group vitamin flags default enddate 2023-08-25
-B-2 canon B-2 startdate 2022-05-05 adj bs  group vitamin density 514mg/qtsp  text " 1/32 on 2023-07-05 about 60mg so 500mg/qtsp ok remeasure 2023-08-24 175mg(1/16 tsp ) or 50-80mg per 1/32 tsp  "
+B-2 canon B-2 startdate 2022-05-05 adj bs  group vitamin density 514mg/qtsp  text " 1/32 on 2023-07-05 about 60mg so 500mg/qtsp ok remeasure 2023-08-24 175mg(1/16 tsp ) or 50-80mg per 1/32 tsp  " density 2.08g/tsp runits mg
 b20ng canon b20ng group food,meat
 b20ngnc canon b20ngnc group food,meat
 b25ngnc canon b25ngnc group food,meat
@@ -211,8 +211,8 @@ jalapeno canon jalapeno group food,spice
 K2 canon K2 group vitamin adj ri  text "relentless improvements two varieties " enddate 2022-05-20 
 # doh "sample" is also a noun for lab analysis 
 K2 canon K2 group vitamin text "Chinese import sample MK-4 25mg per 1/64 tsp   " startdate 2023-05-20  density 1600mg/tsp runits mg adj Sample 
-K2 canon K2 group vitamin adj LE  text "Life Extension Mega K2 45mg MK-4 " startdate 2022-05-21 
-MK7 canon K2 group vitamin text "Nutricost  MK-7 " startdate 2023-05-16
+K2 canon K2 group vitamin adj LE  text "Life Extension Mega K2 45mg MK-4 " startdate 2022-05-21  runits mg
+MK7 canon K2MK7 group vitamin runits mg text "Nutricost  MK-7 " startdate 2023-05-16
 #kibble canon kibble group food,dogfood,dryfood
 Kibble canon kibble group food,commercial,generic,dogfood
 #KibbleEliteSeriesBeef canon kibble group food,dogfood
