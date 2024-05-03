@@ -191,12 +191,12 @@ FleaAway canon FleaAway group drug,medicine
 garlic canon garlic adj minced group food group food,spice,herb
 nogarlic ignore  
 habanero canon habanero group food,spice
-histidinehcl canon histidinehcl group vitamin,"amino acid" density 5488mg/tsp enddate 2024-02-15
+histidinehcl canon histidinehcl group vitamin,"amino acid" runits mg density 5488mg/tsp enddate 2024-02-15
 histidine canon histidine group vitamin,"amino acid" density 1256mg/qtsp  text "ordered free base by mistake need a density measure yet 314mg/(1/16 tsp) "  startdate 2024-02-16
 HMCu canon HMCU
 HMCU canon HMCU
 kelp canon kelp 
-LESI canon Iodine serving 1mg  group vitamin,elemental  startdate 2017-09-06 text "LESI Life Extensions Sea Iodine 1000mcg"
+LESI canon Iodine serving 1mg runits mg  group vitamin,elemental  startdate 2017-09-06 text "LESI Life Extensions Sea Iodine 1000mcg"
 # note density if mg of IODINE per tsp need to fix this 
 KI canon Iodine group vitamin,elemental  startdate 2023-07-05 text "bulk KI about 130mg/(1/64 tsp) iAZ lab from china, see Amazon " density 6365mg/tsp runits mg
 nwkelp canon Iodine
@@ -259,7 +259,7 @@ pantothenate canon pantothenate adj nutricost,NOW group vitamin,"SMVT substrate"
 #bspantothenate canon pantothenate adj bs runits mg density 2500mg/tsp  group vitamin,"SMVT substrate"
 pantothenate canon pantothenate adj bs flags default runits mg density 2500mg/tsp  group vitamin,"SMVT substrate"
 pantothenic canon pantothenate
-phenylalanine canon phenylalanine group vitamin,"amino acid"
+phenylalanine canon phenylalanine group vitamin,"amino acid" runits mg density 1g/qtsp 
 prednisone canon prednisone group drug,medicine,steroid
 kpws canon salmon text "kroger pacific wild salmon" group food,fish
 kpwsbroth  canon salmon text "kroger pacific wild salmon mostly broth " group food,fish
@@ -313,7 +313,7 @@ tryptophan canon tryptophan group vitamin,"amino acid" startdate 2021-09-11 endd
 tryptophan canon tryptophan group vitamin,"amino acid" startdate 2023-05-25 density 2400mg/tsp text " bulk supplements, i ntermediate ensity 234-400 mg per 1/8 tsp " runits mg
 
 
-tyrosine canon tyrosine group vitamin,"amino acid"
+tyrosine canon tyrosine group vitamin,"amino acid" runits mg density 400mg/qtsp
 valine canon valine group "vitamin,amino acid"
 # using "iu" as an adjective is wrong, this need to be a private unit with
 # a conversion factor although the reporting units should be ui 
