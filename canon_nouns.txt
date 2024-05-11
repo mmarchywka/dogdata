@@ -228,7 +228,7 @@ lysine canon lysine group "vitamin,amino acid"
 lysinehcl canon lysinehcl group "vitamin,amino acid"
 metasilicate canon metasilicate
 vinegar canon vinegar startdate 2022-08-29 adj white group food,spice text "possible anti-ventriculi " 
-sbenz canon sodiumbenzoate group medicine,antibiotic,antioxidant,preservative  density runits mg  .788g/qtsp  text "sodium benzoate powder" 
+sbenz canon sodiumbenzoate group medicine,antibiotic,antioxidant,preservative  runits mg density .788g/qtsp  text "sodium benzoate powder" 
 sorbitol canon sorbitol group sweenter,antibiotic,antioxidant,preservative    text "sweetner with solvent and medicinal value " 
 methionine canon methionine group "vitamin,amino acid"
 metronidazole canon metronidazole flags default group medicine,drug,antibiotic
