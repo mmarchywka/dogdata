@@ -139,7 +139,8 @@ ctskinb canon ctskinb group food,meat,chicken
 Cu canon Cu group metal,mineral,vitamin adj glycinate adj carlson
 # this is using metal weright per volume but need to be careful here 
 Cu canon Cu group metal,mineral,vitamin startdate 2023-03-19 adj gluconate adj bs text "2mgCu/14mg per bag and 31mg/64th tsp or 4mgCu/64th"  runits mg density 64mg/qtsp
-Cu canon Cu group metal,mineral,vitamin adj citrate flags default
+# no longer have this add enddate
+Cu canon Cu group metal,mineral,vitamin adj citrate flags default enddate 2024-05-12
 #optizn canon Zn group metal  active Zn
 optizn canon Zn group metal,mineral,vitamin  serving 1g part ",Zn,1g"
 #Zn canon zn group metal,mineral,vitamin
