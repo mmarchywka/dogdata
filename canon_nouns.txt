@@ -343,13 +343,13 @@ accept canon accept group outcome,observation adj prompt,eager
 weight canon weight group outcome runits lbs adj calculated,est,estimate,estimated
 age canon age group outcome  adj known,calculated,est,estimate,estimated
 #vomit canon vomit group outcome 
-vomit canon vomit group outcome  adj likely,probable,presumed
+vomit canon vomit group outcome flags alpha  adj likely,probable,presumed
 cough canon cough group outcome 
 walk canon walk group outcome  adj church,steps,good,stumble
 photo canon photo group outcome,data,image flags alpha vflags file 
 renamed canon aka group tracking flags alpha 
 labresult canon labresult  group data flags alpha vflags file 
-sample canon sample group data  
+sample canon sample group data flags alpha
 vomited canon vomit group outcome  adj probable,presumed
 treat canon treat group generic
 noCu ignore
