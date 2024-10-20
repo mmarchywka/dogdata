@@ -222,7 +222,7 @@ sunflowerseed 436.548 -
 flea 7 -
 raspberry 190.468 -
 marrow 370.25 -
-iron 12.4252 gram
+iron 12.4093 gram
 blackberry 95.6675 -
 pineapple 5.1175 -
 histidine 0.0976562 -
