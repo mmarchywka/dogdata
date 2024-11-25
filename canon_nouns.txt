@@ -49,7 +49,9 @@ t7r canon turkey text "ground turkey with rosemary 7 pct fat "  group food,meat
 b15ng canon b15ng group food,meat
 b15ngnc canon b15ngnc group food,meat
 B-2 canon B-2 adj nutricost  group vitamin flags default enddate 2023-08-25
-B-2 canon B-2 startdate 2022-05-05 adj bs  group vitamin density 514mg/qtsp  text " 1/32 on 2023-07-05 about 60mg so 500mg/qtsp ok remeasure 2023-08-24 175mg(1/16 tsp ) or 50-80mg per 1/32 tsp  " density 2.08g/tsp runits mg
+B-2 canon B-2 startdate 2022-05-05 enddate 2024-11-20 adj bs  group vitamin density 514mg/qtsp  text " 1/32 on 2023-07-05 about 60mg so 500mg/qtsp ok remeasure 2023-08-24 175mg(1/16 tsp ) or 50-80mg per 1/32 tsp  " density 2.08g/tsp runits mg
+B-2 canon B-2 startdate 2024-11-22 adj bs  group vitamin density 514mg/qtsp  text " reorder note this is fresh just copied density etc old may have gone bad  " density 2.08g/tsp runits mg
+
 b20ng canon b20ng group food,meat
 b20ngnc canon b20ngnc group food,meat
 b25ngnc canon b25ngnc group food,meat
