@@ -191,7 +191,8 @@ d-serine canon d-serine group "amino acid",vitamin
 eggshell eggshell group food
 egg canon eggo group food
 eggo3 canon eggo3 group food  text "Egglands Best omega 3 etc "
-eggbr canon egg group food  text "Greenwise brown eggs  " startdate 2022-08-02
+eggbr canon egg group food  text "Greenwise brown eggs  " startdate 2022-08-02 enddate 2025-01-22
+eggbr canon egg group food  text "Any brown eggs  " startdate 2025-01-28
 FleaAway canon FleaAway group drug,medicine
 garlic canon garlic adj minced group food group food,spice,herb
 nogarlic ignore  
