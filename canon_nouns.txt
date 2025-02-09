@@ -22,7 +22,8 @@ K1bs canon K1 group vitamin  text adj maltodextrin "bulk supplements 1 percent K
 11PC canon 11PC runits tsp expand 1 serving .25tsp part ,KCl,.25tsp,citrate,.25tsp group food,spice,electrolyte
 #11PC canon 11PC
 citrate canon citrate density .989g/qtsp runits tsp group food,spice 
-salt canon salt runits tsp text "morton iodized salt"  group electrolyte
+salt canon salt runits tsp text "morton iodized salt"  group electrolyte enddate 2025-01-01
+salt canon salt runits tsp text "morton non-iodized salt"  group electrolyte startdate 2025-02-06
 sugar canon sugar runits tsp  text "granulated table sugar" group carbohydrate
 KCl canon KCl runits tsp density 1.070g/qtsp serving .25tsp group electrolyte,food
 kcl canon KCl  group electrolyte,food
