@@ -55,6 +55,7 @@ B-2 canon B-2 startdate 2024-11-22 adj bs  group vitamin density 514mg/qtsp  tex
 
 b20ng canon b20ng group food,meat
 b20ngnc canon b20ngnc group food,meat
+cb20ngnc canon cb20ngnc group cooked,food,meat
 b25ngnc canon b25ngnc group food,meat
 marrow canon marrow group food,meat,organ
 B-3 canon B-3 adj bs group vitamin enddate 2023-05-25
@@ -118,7 +119,7 @@ deramaxx canon deramaxx group medicine
 furosemide canon furosemide group drug,diuretic,medicine
 miscmed canon miscmed group medicine
 spironolactone canon spironolactone  group drug,diuretic,medicine
-clindamycin canon clindamycin group drug,antibiotic,medicine
+clindamycin canon clindamycin adj liquid  group drug,antibiotic,medicine
 azithromycin canon azithromycin group drug,antibiotic,medicine
 gabapentin canon gabapentin group drug,medicine
 apoquel canon apoquel  group drug,medicine
@@ -176,6 +177,7 @@ nextgard canon nextgard  group drug,medicine
 comfortis canon comfortis group drug,medicine
 diroban canon diroban  group drug,heartworm,medicine
 panacurc canon panacurc group worm,drug,medicine
+Drontal canon Drontal  group worm,drug,medicine
 ketoconazole canon ketoconazole group drug,medicine
 clavamox canon clavamox  group drug,antibiotic,medicine
 Clavamox canon clavamox  group drug,antibiotic,medicine
