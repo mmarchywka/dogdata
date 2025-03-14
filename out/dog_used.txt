@@ -106,7 +106,7 @@ carprofen 512.5 mg
 cefpodoxime 51 -
 nahco 2.5 -
 p20ngnc 13.94 -
-Cu 1.12296 kilogram
+Cu 15.5408 gram
 heartgard 30 -
 scraps 1 -
 entyce 2 -
