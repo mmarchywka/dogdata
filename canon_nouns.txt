@@ -319,7 +319,8 @@ tryptophan canon tryptophan group vitamin,"amino acid" enddate 2021-09-10 densit
 # convert failing wtf - specific type problem? 
 #tryptophan canon tryptophan group vitamin,"amino acid" startdate 2021-09-11 density 920mg/qtsp text " granular not powder like prior bulk supplements much denser" runits mg
 tryptophan canon tryptophan group vitamin,"amino acid" startdate 2021-09-11 enddate 2023-05-24 density 3680mg/tsp text " granular not powder like prior bulk supplements much denser" runits mg
-tryptophan canon tryptophan group vitamin,"amino acid" startdate 2023-05-25 density 2400mg/tsp text " bulk supplements, i ntermediate ensity 234-400 mg per 1/8 tsp " runits mg
+tryptophan canon tryptophan group vitamin,"amino acid" startdate 2023-05-25 enddate 2025-03-22 density 2400mg/tsp text " bulk supplements, i ntermediate ensity 234-400 mg per 1/8 tsp " runits mg
+tryptophan canon tryptophan group vitamin,"amino acid" startdate 2025-03-23 density 880mg/tsp text " bulk supplements, new batch felt light meaure  220 mg per 1/4 tsp " runits mg
 
 
 tyrosine canon tyrosine group vitamin,"amino acid" runits mg density 400mg/qtsp
