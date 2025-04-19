@@ -222,6 +222,7 @@ K2 canon K2 group vitamin adj ri  text "relentless improvements two varieties " 
 K2 canon K2 group vitamin text "Chinese import sample MK-4 25mg per 1/64 tsp   " startdate 2023-05-20  density 1600mg/tsp runits mg adj Sample 
 K2 canon K2 group vitamin adj LE  text "Life Extension Mega K2 45mg MK-4 " startdate 2022-05-21  runits mg
 MK7 canon K2MK7 group vitamin runits mg text "Nutricost  MK-7 " startdate 2023-05-16
+MK7 canon K2MK7 group vitamin runits mg text "Bulk Supplements   MK-7 " startdate 2025-04-17 adj bs text " 1 pct 40mg/ 64th tsp " density 25.6mg/tsp runits mg 
 #kibble canon kibble group food,dogfood,dryfood
 Kibble canon kibble group food,commercial,generic,dogfood
 #KibbleEliteSeriesBeef canon kibble group food,dogfood
@@ -232,7 +233,8 @@ sfseed canon sunflowerseed startdate 2023-08-14 flags default  group food,seed t
 lecithin canon lecithin startdate 2023-03-14 serving 1qtsp  adj liquid  group vitamin,emulsifier
 leucine canon leucine group "vitamin,pure,supplement,amino acid"
 lipoicacid canon lipoicacid group vitamin,"SMVT substrate" adj drop adj drops adj natural adj best adj naturals adj bestnaturals
-lipoicacid canon lipoicacid group vitamin,"SMVT substrate"  runits mg  adj bs startdate 2023-05-03 -text "bulk supplements pure powder 67mg per 1/32 but 171mg/ 1/16 tsp measure 2023-10-26 25,50,150mg for 64th,32nd,16th wtf " density 600mg/qtsp   
+lipoicacid canon lipoicacid group vitamin,"SMVT substrate"  runits mg  adj bs startdate 2023-05-03 enddate 2025-04-16 text "bulk supplements pure powder 67mg per 1/32 but 171mg/ 1/16 tsp measure 2023-10-26 25,50,150mg for 64th,32nd,16th wtf change density from 600 to 520 2025-04-16 " density 520mg/qtsp   
+lipoicacid canon lipoicacid group vitamin,"SMVT substrate"  runits mg  adj bs startdate 2025-04-17 text "bulk supplements pure powder 65mg per 1/32  probably same as before  " density 520mg/qtsp   
 lysine canon lysine group "vitamin,amino acid"
 lysinehcl canon lysinehcl group "vitamin,amino acid"
 metasilicate canon metasilicate
@@ -332,7 +334,8 @@ valine canon valine group "vitamin,amino acid"
 #vitamina canon vitamina group vitamin adj bronson adj iu enddate 2021-02-19
 vitamina canon vitamina group vitamin adj bronson  enddate 2021-02-19 units iu runits iu punit iu,1iu serving 1iu
 vitamine canon vitamine group vitamin adj kroger  startdate 2023-01-17 enddate 2023-07-25 units iu runits iu punit iu,1iu serving 1iu text "180mg or 400 iu  pure alpha but d,l with glycerin etc "
-vitamine canon vitamine group vitamin adj nutricost  startdate 2023-07-22 units iu runits iu punit iu,1iu serving 1iu text " 400 iu  pure alpha but d,l with glycerin etc "
+vitamine canon vitamine group vitamin adj nutricost  startdate 2023-07-22 enddate 2025-04-16 units iu runits iu punit iu,1iu serving 1iu text " 400 iu  pure alpha but d,l with glycerin etc "
+vitamine canon vitamine group vitamin adj bs startdate 2025-04-16 text " d-alpha with octenyl succinate 38mg/32nd tsp states 280mg/500mg about .67mg/iu about 250iu/qtsp     " density  681mg/tsp units iu runits iu punit iu,1iu  
 #vitamina canon vitamina adj NOW  adj iu startdate 2021-02-21
 vitamina canon vitamina group vitamin adj NOW startdate 2021-02-21 units iu runits iu punit iu,1iu serving 1iu
 
