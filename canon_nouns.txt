@@ -257,7 +257,8 @@ meloxidyl canon meloxidyl group pain text " syringe is calibrated in lbs of body
 #Mgcitrate canon Mg group vitamin,mineral
 Mgcitrate canon MgCitrate group vitamin,mineral
 Mn canon Mn group vitamin,mineral enddate 2024-01-10
-Mn canon Mn group vitamin,mineral startdate 2024-01-12 text "carlson 10mg"
+Mn canon Mn group vitamin,mineral startdate 2024-01-12 flags default  runits mg   text "carlson 20mg"
+Mn canon Mn group vitamin,mineral adj nutricost startdate 2025-05-15 text "nutricost 8mg" runits mg
 nob15ngnc canon nob15ngnc
 nob20ngnc canon nob20ngnc
 noeggo3 canon noeggo3
@@ -335,7 +336,7 @@ valine canon valine group "vitamin,amino acid"
 vitamina canon vitamina group vitamin adj bronson  enddate 2021-02-19 units iu runits iu punit iu,1iu serving 1iu
 vitamine canon vitamine group vitamin adj kroger  startdate 2023-01-17 enddate 2023-07-25 units iu runits iu punit iu,1iu serving 1iu text "180mg or 400 iu  pure alpha but d,l with glycerin etc "
 vitamine canon vitamine group vitamin adj nutricost  startdate 2023-07-22 enddate 2025-04-16 units iu runits iu punit iu,1iu serving 1iu text " 400 iu  pure alpha but d,l with glycerin etc "
-vitamine canon vitamine group vitamin adj bs startdate 2025-04-16 text " d-alpha with octenyl succinate 38mg/32nd tsp states 280mg/500mg about .67mg/iu about 250iu/qtsp     " density  681mg/tsp units iu runits iu punit iu,1iu  
+vitamine canon vitamine group vitamin adj bs startdate 2025-04-16 text " d-alpha with octenyl succinate 38mg/32nd tsp states 280mg/500mg about .67mg/iu about 250iu/qtsp     " density 68100iu/tsp xdensity  681mg/tsp units iu runits iu punit iu,1iu  
 #vitamina canon vitamina adj NOW  adj iu startdate 2021-02-21
 vitamina canon vitamina group vitamin adj NOW startdate 2021-02-21 units iu runits iu punit iu,1iu serving 1iu
 
