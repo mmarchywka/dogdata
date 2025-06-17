@@ -178,6 +178,7 @@ comfortis canon comfortis group drug,medicine
 diroban canon diroban  group drug,heartworm,medicine
 panacurc canon panacurc group worm,drug,medicine
 Drontal canon Drontal  group worm,drug,medicine
+Strongid canon Drontal  startdate 2025-06-10  group worm,drug,medicine
 ketoconazole canon ketoconazole group drug,medicine
 clavamox canon clavamox  group drug,antibiotic,medicine
 Clavamox canon clavamox  group drug,antibiotic,medicine
