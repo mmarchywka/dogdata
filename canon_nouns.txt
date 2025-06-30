@@ -56,6 +56,7 @@ B-2 canon B-2 startdate 2024-11-22 adj bs  group vitamin density 514mg/qtsp  tex
 b20ng canon b20ng group food,meat
 b20ngnc canon b20ngnc group food,meat
 cb20ngnc canon cb20ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b20 taste was notable but not strong "
+cb7ngnc canon cb7ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b20 taste was notable but not strong "
 b25ngnc canon b25ngnc group food,meat
 marrow canon marrow group food,meat,organ
 B-3 canon B-3 adj bs group vitamin enddate 2023-05-25
