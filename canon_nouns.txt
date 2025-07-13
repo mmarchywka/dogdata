@@ -56,7 +56,8 @@ B-2 canon B-2 startdate 2024-11-22 adj bs  group vitamin density 514mg/qtsp  tex
 b20ng canon b20ng group food,meat
 b20ngnc canon b20ngnc group food,meat
 cb20ngnc canon cb20ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b20 taste was notable but not strong "
-cb7ngnc canon cb7ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b20 taste was notable but not strong "
+cb7ngnc canon cb7ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b7 taste was notable but not strong "
+cb10ngnc canon cb10ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b10 taste was notable but not strong "
 b25ngnc canon b25ngnc group food,meat
 marrow canon marrow group food,meat,organ
 B-3 canon B-3 adj bs group vitamin enddate 2023-05-25
@@ -203,7 +204,8 @@ garlic canon garlic adj minced group food group food,spice,herb
 nogarlic ignore  
 habanero canon habanero group food,spice
 histidinehcl canon histidinehcl group vitamin,"amino acid" runits mg density 5488mg/tsp enddate 2024-02-15
-histidine canon histidine group vitamin,"amino acid" density 1256mg/qtsp  text "ordered free base by mistake need a density measure yet 314mg/(1/16 tsp) "  startdate 2024-02-16
+histidinehcl canon histidinehcl group vitamin,"amino acid" runits mg density 5488mg/tsp startdate 2025-07-08 text "using old density should measure"
+histidine canon histidine group vitamin,"amino acid" density 1256mg/qtsp  text "ordered free base by mistake need a density measure yet 314mg/(1/16 tsp) "  startdate 2024-02-16 enddate 2025-07-07
 HMCu canon HMCU
 HMCU canon HMCU
 kelp canon kelp 
