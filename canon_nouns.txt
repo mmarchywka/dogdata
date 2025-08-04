@@ -97,7 +97,7 @@ spinach canon spinach  adj birdseye adj frozen adj fresh  group food,vegetable
 # wanted to drop the publix frozen adjective at some point
 spinach canon spinach  adj publix adj frozen enddate 2021-05-01 group food,vegetable
 spinach canon spinach  adj publix adj frozen startdate 2021-08-07  group food,vegetable
-spinach canon spinach  adj gv  startdate 2024-01-10 group food,vegetable,frozen  text " great value ie WMT frozen spinach "
+spinach canon spinach  adj gv,ogv  startdate 2024-01-10 group food,vegetable,frozen  text " great value ie WMT frozen spinach "
 spinach canon spinach  adj kroger  startdate 2021-07-17 group food,vegetable 
 spinach canon spinach  adj delmonte  startdate 2021-07-20 group food,vegetable 
 spinach canon spinach  adj publix adj frozen startdate 2021-05-02 enddate 2021-07-17 flags default  group food,vegetable
