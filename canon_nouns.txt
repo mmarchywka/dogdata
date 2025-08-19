@@ -58,6 +58,7 @@ b20ngnc canon b20ngnc group food,meat
 cb20ngnc canon cb20ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b20 taste was notable but not strong "
 cb7ngnc canon cb7ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b7 taste was notable but not strong "
 cb10ngnc canon cb10ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b10 taste was notable but not strong "
+cb25ngnc canon cb25ngnc group cooked,food,meat text " 1/2 tsp each of KCl and citrica acid were added per pound of b25"
 b25ngnc canon b25ngnc group food,meat
 marrow canon marrow group food,meat,organ
 B-3 canon B-3 adj bs group vitamin enddate 2023-05-25
@@ -98,6 +99,7 @@ spinach canon spinach  adj birdseye adj frozen adj fresh  group food,vegetable
 spinach canon spinach  adj publix adj frozen enddate 2021-05-01 group food,vegetable
 spinach canon spinach  adj publix adj frozen startdate 2021-08-07  group food,vegetable
 spinach canon spinach  adj gv,ogv  startdate 2024-01-10 group food,vegetable,frozen  text " great value ie WMT frozen spinach "
+spinach canon spinach  adj ps startdate 2025-08-17 group food,vegetable,frozen  text " pictsweet  WMT frozen spinach "
 spinach canon spinach  adj kroger  startdate 2021-07-17 group food,vegetable 
 spinach canon spinach  adj delmonte  startdate 2021-07-20 group food,vegetable 
 spinach canon spinach  adj publix adj frozen startdate 2021-05-02 enddate 2021-07-17 flags default  group food,vegetable
