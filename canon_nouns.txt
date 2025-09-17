@@ -33,7 +33,8 @@ arginine canon arginine group "amino acid,vitamin"
 # remeasured 2022-04-24 but presume long standing difference although 
 # I did not reset calibration today full scale better than this.. 
 argininehcl canon arginine group vitamin,"amino acid" startdate 2021-05-28 runits mg density 2800mg/tsp 
-B-1 canon B-1  adj NOW  group vitamin enddate 2021-10-07 
+#B-1 canon B-1  adj NOW  group vitamin enddate 2021-10-07 
+B-1 canon B-1  adj NOW  group vitamin enddate 2021-10-17 
 B-1 canon B-1  adj nutricost startdate 2021-10-18 enddate 2023-01-30  group vitamin
 B-1 canon B-1  adj bs startdate 2023-01-30 runits mg density 1.504mg/tsp  group vitamin text "22mg/ 64th and 47mg/32nd"  
 #B-100 canon B-100
