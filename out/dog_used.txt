@@ -260,8 +260,7 @@ Mn 8 -
 Mn 1.25123 gram
 b15ngnc 2769.05 -
 b15ngnc 0.025 AM
-B-2 0.03125 -
-B-2 282.061 gram
+B-2 282.171 gram
 ctbroth 789.739 -
 B-3 86.025 -
 B-3 243.468 gram
