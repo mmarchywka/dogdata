@@ -32,8 +32,7 @@ ctskinb 6.025 -
 KibbleDiamond 433.35 -
 lysine 105.25 -
 lysine 14.5901 gram
-b7ngnc 8663.79 -
-b7ngnc 0.01725 AM
+b7ngnc 8664.65 -
 Misckibble 15 -
 bor-l-immune 180 -
 Misccanned 2 -
@@ -259,8 +258,8 @@ KCl 11.3633 tsp
 KCl 1630.37 tsp
 Mn 8 -
 Mn 1.25123 gram
-b15ngnc 2768.49 -
-b15ngnc 0.0389375 AM
+b15ngnc 2769.05 -
+b15ngnc 0.025 AM
 B-2 0.03125 -
 B-2 282.061 gram
 ctbroth 789.739 -
