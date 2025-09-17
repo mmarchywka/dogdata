@@ -346,10 +346,10 @@ vitamine canon vitamine group vitamin adj bs startdate 2025-04-16 text " d-alpha
 #vitamina canon vitamina adj NOW  adj iu startdate 2021-02-21
 vitamina canon vitamina group vitamin adj NOW startdate 2021-02-21 units iu runits iu punit iu,1iu serving 1iu
 
-vitaminc canon vitaminc group vitamin adj sundown stardate 2020-11-13  enddate 2021-09-07
-vitaminc canon vitaminc group vitamin adj naturemade  stardate 2021-09-09  enddate 2023-05-14
-#vitaminc canon vitaminc group vitamin adj just  stardate 2023-05-03 density 1200mg/qtsp text "just vitaminc brand 299mg per 64th 132mg per 32nd "
-vitaminc canon vitaminc group vitamin adj just  stardate 2023-05-03 density 1200mg/qtsp text "just vitaminc brand 299mg per 16th 132mg per 32nd "
+vitaminc canon vitaminc group vitamin adj sundown startdate 2020-11-13  enddate 2021-09-07
+vitaminc canon vitaminc group vitamin adj naturemade  startdate 2021-09-09  enddate 2023-05-14
+#vitaminc canon vitaminc group vitamin adj just  startdate 2023-05-03 density 1200mg/qtsp text "just vitaminc brand 299mg per 64th 132mg per 32nd "
+vitaminc canon vitaminc group vitamin adj just  startdate 2023-05-03 density 1200mg/qtsp text "just vitaminc brand 299mg per 16th 132mg per 32nd "
 weggo3 canon weggo3
 #worm canon worm
 heartworm canon heartworm
