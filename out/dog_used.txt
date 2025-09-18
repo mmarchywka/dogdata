@@ -59,6 +59,7 @@ phenylalanine 1.86704 kilogram
 tyrosine 1.14342 kilogram
 histidinehcl 729.066 gram
 FleaAway 679.2 -
+sentinelspectrum 15 -
 threonine 6.59638 kilogram
 SolidGold 5 -
 valine 1 -
@@ -74,7 +75,6 @@ methionine 699.239 gram
 methionine 253.269 tsp
 citrate 1616.26 tsp
 taurine 8.95032 kilogram
-sentinelspectrum 8 -
 KibbleLogic 3565.08 -
 noK2 90 mg
 pectalin 39.5 -

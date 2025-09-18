@@ -180,6 +180,7 @@ GED canon gentamicin  group antibiotic,medicine,drug flags default
 cefpodoxime canon cefpodoxime group antibiotic,medicine,drug
 sentinelspectrum canon sentinelspectrum  group drug,medicine
 sentinel canon sentinelspectrum adj spectrum   group drug,medicine
+Sentinel canon sentinelspectrum adj spectrum   group drug,medicine
 nextgard canon nextgard  group drug,medicine
 comfortis canon comfortis group drug,medicine
 diroban canon diroban  group drug,heartworm,medicine
