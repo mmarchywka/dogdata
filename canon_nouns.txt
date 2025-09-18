@@ -235,6 +235,7 @@ MK7 canon K2MK7 group vitamin runits mg text "Nutricost  MK-7 " startdate 2023-0
 MK7 canon K2MK7 group vitamin runits mg text "Bulk Supplements   MK-7 " startdate 2025-04-17 adj bs text " 1 pct 40mg/ 64th tsp " density 25.6mg/tsp runits mg 
 #kibble canon kibble group food,dogfood,dryfood
 Kibble canon kibble group food,commercial,generic,dogfood
+KibbleWellness  canon kibble text "Kibble Wellness whitefish sweet potatoe with  entered 2025-09-18 to fix old errors "  group food,commercial,generic,dogfood
 #KibbleEliteSeriesBeef canon kibble group food,dogfood
 #KibbleMixDiamondJourney canon kibble group food,dogfood
 lecithin canon lecithin enddate 2021-04-02 serving 1200lecu runits lecu   group vitamin,"amino acid"
