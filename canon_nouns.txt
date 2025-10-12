@@ -271,7 +271,7 @@ meloxidyl canon meloxidyl group pain text " syringe is calibrated in lbs of body
 #Mgcitrate canon Mg group vitamin,mineral
 Mgcitrate canon MgCitrate group vitamin,mineral
 Mn canon Mn group vitamin,mineral enddate 2024-01-10
-Mn canon Mn group vitamin,mineral startdate 2024-01-12 flags default  runits mg   text "carlson 20mg"
+Mn canon Mn group vitamin,mineral startdate 2024-01-12 enddate 2025-10-08  flags default  runits mg   text "carlson 20mg"
 Mn canon Mn group vitamin,mineral adj nutricost startdate 2025-05-15 text "nutricost 8mg" runits mg
 nob15ngnc canon nob15ngnc
 nob20ngnc canon nob20ngnc
