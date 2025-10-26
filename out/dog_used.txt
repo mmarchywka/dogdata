@@ -10,8 +10,8 @@ eyemedicine 11 -
 cephalexin 143 -
 cephalexin 39.185 gram
 arginine 1162.9 -
-arginine 2.78972 kilogram
-arginine 5.28 tsp
+arginine 2.79075 kilogram
+arginine 4.82688 tsp
 deramaxx 2 -
 canned 2967.75 -
 cooked 13.96 -
