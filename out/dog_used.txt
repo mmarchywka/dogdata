@@ -238,8 +238,7 @@ cb10ngnc 17.6375 -
 cb25ngnc 5.9625 -
 carrot 12747 -
 advecta 8 -
-inositol 198.438 -
-inositol 1.4418 gram
+inositol 1.64023 gram
 PABA 127.275 mg
 cdpcholine 3.65347 gram
 B-6 67 -
