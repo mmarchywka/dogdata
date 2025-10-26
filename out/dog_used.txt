@@ -62,9 +62,7 @@ histidinehcl 737.6 gram
 sentinelspectrum 15 -
 threonine 6.66056 kilogram
 SolidGold 5 -
-valine 1 -
-valine 2.9 kilogram
-valine 2.59157 kilogram
+valine 2.59467 kilogram
 valine 0.15625 tsp
 isoleucine 772.777 gram
 isoleucine 0.03125 tsp
@@ -241,8 +239,7 @@ cb25ngnc 5.9625 -
 carrot 12747 -
 advecta 8 -
 inositol 198.438 -
-inositol 56.6406 g
-inositol 1.38516 gram
+inositol 1.4418 gram
 PABA 127.275 mg
 cdpcholine 3.65347 gram
 B-6 67 -
