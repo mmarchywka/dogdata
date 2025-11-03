@@ -252,6 +252,9 @@ lipoicacid canon lipoicacid group vitamin,"SMVT substrate"  runits mg  adj bs st
 lysine canon lysine group "vitamin,amino acid"
 lysinehcl canon lysinehcl group "vitamin,amino acid"
 metasilicate canon metasilicate
+
+slicacanon SiO2 startdate 2025-11-02  group natural,food,mineral text " "  
+
 vinegar canon vinegar startdate 2022-08-29 adj white group food,spice text "possible anti-ventriculi " 
 sbenz canon sodiumbenzoate group medicine,antibiotic,antioxidant,preservative  runits mg density .788g/qtsp  text "sodium benzoate powder" 
 sorbitol canon sorbitol group food,spice,sweenter,antibiotic,antioxidant,preservative    text "sweetner with solvent and medicinal value " 
