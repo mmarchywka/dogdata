@@ -45,6 +45,7 @@ multiB canon B-multi group vitamin startdate 2021-05-24 serving 1count expand 25
 #multiB canon multiB startdate 2021-05-24 text "purely holistic Super B-Complex" adj purely adj holistic   
 PABA  canon PABA startdate 2025-09-23 text "NOW PABA "  group vitamin,supplement   
 inositol  canon inositol startdate 2025-09-23 text "inositol supplements "  group vitamin,supplement   
+creatine  canon creatine startdate 2025-11-16 text "nutricost "  group vitamin,supplement   
 b10ngnc canon b10ngnc group food,meat
 B-12 canon B-12 group vitamin  runits mg
 folate canon folate group generic,vitamin  runits mg adj nutricost text "nutricost 1000mcg capsules " startdate 2021-05-30
@@ -253,10 +254,11 @@ lysine canon lysine group "vitamin,amino acid"
 lysinehcl canon lysinehcl group "vitamin,amino acid"
 metasilicate canon metasilicate
 
-silica canon SiO2 startdate 2025-11-02  group natural,food,mineral text " "  
+silica canon SiO2 startdate 2025-11-02 runits mg density 200mg/qtsp  group natural,food,mineral text " "  
 
 vinegar canon vinegar startdate 2022-08-29 adj white group food,spice text "possible anti-ventriculi " 
-sbenz canon sodiumbenzoate group medicine,antibiotic,antioxidant,preservative  runits mg density .788g/qtsp  text "sodium benzoate powder" 
+sbenz canon sodiumbenzoate group medicine,antibiotic,antioxidant,preservative  runits mg density .788g/qtsp enddate 2025-11-11  text "sodium benzoate powder" 
+sbenz canon sodiumbenzoate group medicine,antibiotic,antioxidant,preservative  runits mg density .720g/qtsp startdate 2025-11-12  text "sodium benzoate powder new batch " 
 sorbitol canon sorbitol group food,spice,sweenter,antibiotic,antioxidant,preservative    text "sweetner with solvent and medicinal value " 
 methionine canon methionine group "vitamin,amino acid"
 metronidazole canon metronidazole flags default group medicine,drug,antibiotic
