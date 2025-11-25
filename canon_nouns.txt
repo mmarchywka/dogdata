@@ -45,7 +45,7 @@ multiB canon B-multi group vitamin startdate 2021-05-24 serving 1count expand 25
 #multiB canon multiB startdate 2021-05-24 text "purely holistic Super B-Complex" adj purely adj holistic   
 PABA  canon PABA startdate 2025-09-23 text "NOW PABA "  group vitamin,supplement   
 inositol  canon inositol startdate 2025-09-23 text "inositol supplements "  group vitamin,supplement   
-creatine  canon creatine startdate 2025-11-16 text "nutricost "  group vitamin,supplement   
+creatine  canon creatine startdate 2025-11-16 text "nutricost  density from 637,782,636 lol " density 700mg/qtsp runits mg  group vitamin,supplement   
 b10ngnc canon b10ngnc group food,meat
 B-12 canon B-12 group vitamin  runits mg
 folate canon folate group generic,vitamin  runits mg adj nutricost text "nutricost 1000mcg capsules " startdate 2021-05-30
@@ -241,11 +241,12 @@ Kibble canon kibble group food,commercial,generic,dogfood
 KibbleWellness  canon kibble text "Kibble Wellness whitefish sweet potatoe with  entered 2025-09-18 to fix old errors "  group food,commercial,generic,dogfood
 #KibbleEliteSeriesBeef canon kibble group food,dogfood
 #KibbleMixDiamondJourney canon kibble group food,dogfood
-lecithin canon lecithin enddate 2021-04-02 serving 1200lecu runits lecu   group vitamin
+lecithin canon leculecithin enddate 2021-04-02 serving 1200lecu runits lecu   group vitamin
 lecithin canon lecithin startdate 2021-04-03 flags default serving 1qtsp punit tsp,3600mg density 900mg/qtsp runits mg   group vitamin,emulsifier
 cdpcholine canon cdpcholine startdate 2025-09-26 text "nutricost cdpcholine in 300mg capsules" runits mg group vitamin,emulsifier,unknown
 sfseed canon sunflowerseed startdate 2023-08-14 flags default  group food,seed text " yupik shelled sunflower seeds " 
-lecithin canon lecithin startdate 2023-03-14 serving 1qtsp  adj liquid  group vitamin,emulsifier
+#lecithin canon lecithin startdate 2023-03-14 serving 1qtsp  adj liquid  group vitamin,emulsifier
+lecithin canon liqlecithin startdate 2023-03-14 enddate 2023-12-18 text "stop date approximate added 2025-11-25 looking at oleic acid lol "  serving 1qtsp  adj liquid  group vitamin,emulsifier
 leucine canon leucine group "vitamin,pure,supplement,amino acid"
 lipoicacid canon lipoicacid group vitamin,"SMVT substrate" adj drop adj drops adj natural adj best adj naturals adj bestnaturals
 lipoicacid canon lipoicacid group vitamin,"SMVT substrate"  runits mg  adj bs startdate 2023-05-03 enddate 2025-04-16 text "bulk supplements pure powder 67mg per 1/32 but 171mg/ 1/16 tsp measure 2023-10-26 25,50,150mg for 64th,32nd,16th wtf change density from 600 to 520 2025-04-16 " density 520mg/qtsp   
