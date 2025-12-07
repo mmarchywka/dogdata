@@ -46,6 +46,7 @@ multiB canon B-multi group vitamin startdate 2021-05-24 serving 1count expand 25
 PABA  canon PABA startdate 2025-09-23 text "NOW PABA "  group vitamin,supplement   
 inositol  canon inositol startdate 2025-09-23 text "inositol supplements "  group vitamin,supplement   
 creatine  canon creatine startdate 2025-11-16 text "nutricost  density from 637,782,636 lol " density 700mg/qtsp runits mg  group vitamin,supplement   
+carnitine  canon carnitinehclL startdate 2025-12-07 text "nutricost  density from label 500mg/qtsp " density 500mg/qtsp runits mg  group vitamin,supplement   
 b10ngnc canon b10ngnc group food,meat
 B-12 canon B-12 group vitamin  runits mg
 folate canon folate group generic,vitamin  runits mg adj nutricost text "nutricost 1000mcg capsules " startdate 2021-05-30
