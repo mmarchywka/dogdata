@@ -5,7 +5,8 @@ goatmilk canon goatmilk
 treats canon treats group generic 
 K1bs canon K1 group vitamin text "bulk supplements 1 percent K1" flags default  enddate 2021-03-05
 # bad for overlap 
-K1bs canon K1 group vitamin  text adj maltodextrin "bulk supplements 1 percent K1"  startdate 2021-03-05
+K1bs canon K1 group vitamin  text adj maltodextrin "bulk supplements 1 percent K1"  startdate 2021-03-05 enddate 2025-12-19
+K1bs canon K1 group vitamin  text adj maltodextrin "bulk supplements 1 percent K1 in dextrin NOT maltodectrin density not verified " runits mg density 10mg/qtsp   startdate 2025-12-20
 01KC canon 01KC  enddate 2019-12-30 text "citric acid withou morton salt substitute "
 #01PC canon 01PC
 10KC canon 10KC enddate 2019-12-30 text " morton salt substictue without ctric acid"
@@ -286,7 +287,7 @@ nob15ngnc canon nob15ngnc
 nob20ngnc canon nob20ngnc
 noeggo3 canon noeggo3
 noK2 canon noK2
-oliveoil canon oliveoil group food
+oliveoil canon oliveoil text "extra virgin olive oil cant remember serving unit from 2018 which was not recorded "  group food
 p20ngnc canon p20ngnc group food,meat,pork
 pantothenate canon pantothenate adj nutricost,NOW group vitamin,"SMVT substrate"
 # its claiming expanded nouns must be unique but that should have been fixed 
