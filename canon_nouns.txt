@@ -287,7 +287,8 @@ nob15ngnc canon nob15ngnc
 nob20ngnc canon nob20ngnc
 noeggo3 canon noeggo3
 noK2 canon noK2
-oliveoil canon oliveoil text "extra virgin olive oil cant remember serving unit from 2018 which was not recorded "  group food
+#oliveoil canon oliveoil text "extra virgin olive oil cant remember serving unit from 2018 which was not recorded "  group food
+oliveoil canon oliveoil text "extra virgin olive oil cant remember serving unit from 2018 which was not recorded added qtp as approximate  " serving 1qtsp runits tsp  group food
 p20ngnc canon p20ngnc group food,meat,pork
 pantothenate canon pantothenate adj nutricost,NOW group vitamin,"SMVT substrate"
 # its claiming expanded nouns must be unique but that should have been fixed 
