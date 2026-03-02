@@ -300,6 +300,7 @@ phenylalanine canon phenylalanine group vitamin,"amino acid" runits mg density 1
 prednisone canon prednisone group drug,medicine,steroid
 kpws canon salmon text "kroger pacific wild salmon" group food,fish
 krilloil canon krilloil  text "naturebell antartic krill oil 1000mg " group supplement,fish,oil,food
+canolaoil canon canolaoil  text "WMT canola oil " group oil,food
 kpwsbroth  canon salmon text "kroger pacific wild salmon mostly broth " group food,fish
 ketasalmonbrothbs canon salmon adj atlantic,farmed,sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
 salmonbrothb canon salmon adj alaska,sockeye,chile,farmed adj pink adj coho adj kroger adj pacific adj wild group food,fish
