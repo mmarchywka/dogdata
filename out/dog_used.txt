@@ -60,7 +60,7 @@ phenylalanine 1.90695 kilogram
 tyrosine 1.16142 kilogram
 histidinehcl 762.801 gram
 sentinelspectrum 15 -
-threonine 8.7043 kilogram
+threonine 7.04034 kilogram
 SolidGold 5 -
 valine 2.79352 kilogram
 valine 0.15625 tsp
