@@ -129,6 +129,7 @@ blueberries canon blueberry group food,fruit adj large,fresh  text " fresh blueb
 blueberries canon blueberry group food,fruit adj fresh,organic  text " fresh blueberries from various stores " startdate 2023-09-26
 deramaxx canon deramaxx group medicine
 furosemide canon furosemide group drug,diuretic,medicine
+sildenafil canon sildenafil startdate 2026-06-09  group drug,pde5,medicine
 miscmed canon miscmed group medicine
 spironolactone canon spironolactone  group drug,diuretic,medicine
 clindamycin canon clindamycin adj liquid  group drug,antibiotic,medicine
