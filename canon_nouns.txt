@@ -381,7 +381,8 @@ heartworm canon heartworm
 heart canon heartworm
 flea canon flea text "topical or oral flea treatment expired over 10 years etc " 
 advecta canon advecta text "topical flea treatment "  startdate 2025-08-24
-heartgard canon heartgard 
+heartgard canon heartgard  group medicine,worm
+heartgardplus canon heartgardplus  group medicine,worm
 rimadyl canon rimadyl
 yeggo3 canon yeggo3
 accept canon accept group outcome,observation adj prompt,eager 
