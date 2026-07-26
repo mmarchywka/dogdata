@@ -1,6 +1,7 @@
 MACRONOUN canon MACRONOUN  adj delta adj small 
 eyedrops canon eyemedicine  adj creams,drops,ointment,steroid flags default  startdate 2023-03-28  group medicine,eye text "generic eye medicine drops or cream see comments "  
 eyedrops canon eyemedicine  adj creams,drops,ointment,antibiotic,steroid  startdate 2023-03-28  group medicine,eye,antibiotic text "generic eye medicine drops or cream see comments "  
+eyecream canon eyemedicine  adj creams,drops,ointment,antibiotic,steroid  startdate 2026-07-20  group medicine,eye,antibiotic text "generic eye medicine cream neomycin,polyxin, dexamethasone  "  
 goatmilk canon goatmilk
 treats canon treats group generic 
 K1bs canon K1 group vitamin text "bulk supplements 1 percent K1" flags default  enddate 2021-03-05
