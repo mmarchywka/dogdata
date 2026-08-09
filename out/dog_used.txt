@@ -100,7 +100,7 @@ Zn 25.2315 gram
 comfortis 1 -
 flour 6.6 -
 Cu 1.2 -
-Cu 20.3961 gram
+Cu 20.4011 gram
 nextgard 1 -
 carprofen 43.5 -
 carprofen 512.5 mg
