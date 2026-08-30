@@ -334,6 +334,7 @@ vibactra canon vibactra group alt
 taurine canon taurine density 3600mg/tsp flags default punit qtsp,900mg runits mg serving 650mg group vitamin
 #taurine canon taurine density 900mg/qtsp adj crap runits mg serving 650mg
 colostrum canon colostrum  group natural,food
+soloxine canon soloxine  group medicine,thyroid  startdate 2026-08-27
 #taurine canon taurine density 3600mg/tsp  runits mg serving 650mg
 # use enddate etc to differentiate between lots of sellers if desired. 
 thgland canon thgland startdate 2021-01-09  enddate 2021-04-25  serving 200mg group natural,food,medicine,organ part ",dte,100mg" text "bovine glandular thyroid claimed thyroxine removed wtfi capsules powdered" ingredients "gelatin,microcrystalline cellulose,magnesium sterate,silica,medium chain triglycerides" UPC upc,8761411358,stock,X002ONHZ5Z,lot,B241629 
