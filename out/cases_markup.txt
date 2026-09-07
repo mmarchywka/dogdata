@@ -68561,10 +68561,11 @@
 2026-09-07 & PMSNACK 0950AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp gv spinach carrot garlic 11PC 1/2 tsp liquid lecithin 1/2 tsp oliveoil 1/64 tsp nutricost B-3 5mg bs biotin 1/128 tsp Sample K2 1/4 tsp argininehcl 400mg bulk Mgcitrate 800mg valine 650mg threonine \
 2026-09-07 & DPMSNACK 0950AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp gv spinach carrot garlic 2 11PC 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 1/64 tsp nutricost B-3 5mg bs biotin 1/128 tsp Sample K2 2 1/4 tsp argininehcl 400mg bulk Mgcitrate 2 800mg valine 2 650mg threonine \
 2026-09-07 & ( EVENT ) \
+2026-09-07 & NOTE Daisy weight not real stable probably off a few pounds and varies from vet scale \
 2026-09-07 & Happy .125 AMSNACK .0625 PMDINNER .25 PMSNACK 5mg glycinate Cu 1310PM 16.8 lbs weight \
 2026-09-07 & Claire 0815AM .125 AMSNACK 0.5 PMDINNER .25 PMSNACK 1310PM 15.8 lbs weight \
-2026-09-07 & Dexter 1310PM 6.6 lbs weight ( .05 xAMSNACK 1/1024 tsp ZnCitrate ) \
+2026-09-07 & Dexter 1310PM 6.6 lbs weight 1820PM .125 AMSNACK 1/1024 tsp ZnCitrate \
 2026-09-07 & Autumn 0815AM .125 AMSNACK 1 PMDINNER .25 PMSNACK \
-2026-09-07 & Rocky 1310PM 6.5 lbs weight ( .0625 AMSNACK 1/1024 tsp ZnCitrate .0625 PMSNACK 2.5mg glycinate Cu ) \
-2026-09-07 & Daisy 0420AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1310PM 107 lbs weight \
+2026-09-07 & Rocky 1310PM 6.5 lbs weight 1420PM .0625 AMSNACK 1/1024 tsp ZnCitrate 1845PM .0625 PMSNACK 2.5mg glycinate Cu \
+2026-09-07 & Daisy 0420AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1310PM 107 lbs weight 1620PM .8mg soloxine \
 2026-09-07 & Lovebug 1/2 DAMSNACK 1.25 PMDINNER 1/2 DPMSNACK 10mg glycinate Cu garlic 1310PM 62 lbs weight \
