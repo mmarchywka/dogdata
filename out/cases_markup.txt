@@ -68626,3 +68626,31 @@
 2026-09-11 & Rocky 1420PM .0625 AMSNACK 1/1024 tsp ZnCitrate 1850PM .0625 PMSNACK 3mg bs lipoicacid \
 2026-09-11 & Daisy 0420AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 2/3 DPMSNACK 1620PM .8mg soloxine \
 2026-09-11 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK eggshell garlic \
+2026-09-12 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-09-12 & ( AMSNACK 0430AM cb20ngnc .5 clbrothbs .5 ctbroth noshrimp nosalmonbroth spinach carrot garlic 11PC eggo3 bulk lecithin oliveoil taurine 0tsp bs B-1 0mg bs B-3 200mg B-6 1500mcg B-12 biotin 0 LESI novitaminc nopantothenate nolipoicacid 15mg K2 0x2mg noCu 0x8mg noMn noarginine noMgcitrate notryptophan nophenylalanine notyrosine novaline noisoleucine noleucine nolysinehcl nohistidinehcl nothreonine nomethionine ) \
+2026-09-12 & ( PMDINNER 1230PM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth ) \
+2026-09-12 & ( PMSNACK 1300PM cb20ngnc .5 clbrothbs .5 ctbroth noshrimp nosalmonbroth spinach carrot garlic 11PC eggo3 bulk lecithin oliveoil taurine 0tsp bs B-1 0mg bs B-3 200mg B-6 1500mcg B-12 biotin 0 LESI novitaminc nopantothenate nolipoicacid 15mg K2 0x2mg noCu 0x8mg noMn noarginine noMgcitrate notryptophan nophenylalanine notyrosine novaline noisoleucine noleucine nolysinehcl nohistidinehcl nothreonine nomethionine ) \
+2026-09-12 & ( EVENT ) \
+2026-09-12 & ( Happy .125 AMSNACK .0625 PMDINNER .25 PMSNACK ) \
+2026-09-12 & ( Claire .125 AMSNACK 0.5 PMDINNER .25 PMSNACK ) \
+2026-09-12 & ( Dexter .05 xAMSNACK ) \
+2026-09-12 & ( Autumn .125 AMSNACK 1 PMDINNER .25 PMSNACK ) \
+2026-09-12 & ( Rocky .0625 AMSNACK .0625 PMSNACK ) \
+2026-09-12 & Daisy 0415AM .8mg soloxine ( 2/3 DAMSNACK .45 PMDINNER 2/3 DPMSNACK ) \
+2026-09-12 & ( Lovebug 1/3 DAMSNACK .45 PMDINNER 1/3 DPMSNACK ) \
+2026-09-20 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-09-20 & AMSNACK 0920AM b20ngnc .5 clbrothbs .5 ctbrothbs gv spinach carrot 1/16 tsp sbenz 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp oliveoil 200mg krilloil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 25mg B-6 9000 iu NOW vitamina 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 1/16 tsp tryptophan 200mg tyrosine 650mg leucine 650mg lysinehcl 1/16 tsp histidinehcl 650mg threonine 250mg methionine \
+2026-09-20 & DAMSNACK 0920AM b20ngnc .5 clbrothbs .5 ctbrothbs gv spinach carrot 1/16 tsp sbenz 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 200mg krilloil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 25mg B-6 2 9000 iu NOW vitamina 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 2 1/16 tsp tryptophan 200mg tyrosine 2 650mg leucine 2 650mg lysinehcl 1/16 tsp histidinehcl 2 650mg threonine 250mg methionine \
+2026-09-20 & ( PMDINNER 1230PM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth ) \
+2026-09-20 & ( PMSNACK 1300PM cb20ngnc .5 clbrothbs .5 ctbroth noshrimp nosalmonbroth spinach carrot garlic 11PC eggo3 bulk lecithin oliveoil taurine 0tsp bs B-1 0mg bs B-3 200mg B-6 1500mcg B-12 biotin 0 LESI novitaminc nopantothenate nolipoicacid 15mg K2 0x2mg noCu 0x8mg noMn noarginine noMgcitrate notryptophan nophenylalanine notyrosine novaline noisoleucine noleucine nolysinehcl nohistidinehcl nothreonine nomethionine ) \
+2026-09-20 & ( EVENT ) \
+2026-09-20 & NOTE Daisy perked up better probably lost weight \
+2026-09-20 & NOTE Happy quiet in most cases although coughing a lot when excited. Seemed weak although running around good got on couch etc. Definitely slightly whiter too. \
+2026-09-20 & NOTE Rocky seems good and lost the bulge in his side. Barb said he had a bloody poop probably like he does every so often maybe he got rid of something hard to guss but that seems to be a pattern. \
+2026-09-20 & Happy .125 AMSNACK 1920PM 2.5mg glycinate Cu ( .0625 PMDINNER .25 PMSNACK ) \
+2026-09-20 & Claire .125 AMSNACK ( 0.5 PMDINNER .25 PMSNACK ) \
+2026-09-20 & Dexter 1900PM .125 AMSNACK 1/1024 tsp ZnCitrate \
+2026-09-20 & Autumn .125 AMSNACK ( 1 PMDINNER .25 PMSNACK ) \
+2026-09-20 & Rocky 1445PM .0625 AMSNACK 1/1024 tsp ZnCitrate 1/1024 tsp fumarate Fe 3000 iu NOW vitamina 1920PM 5/3 mg glycinate Cu ( .0625 PMSNACK ) \
+2026-09-20 & Daisy 0510AM .8mg soloxine 1/2 DAMSNACK 1620PM .8mg soloxine ( .45 PMDINNER 2/3 DPMSNACK ) \
+2026-09-20 & Lovebug 1/2 DAMSNACK 1920PM 5mg glycinate Cu ( .45 PMDINNER 1/3 DPMSNACK ) \
