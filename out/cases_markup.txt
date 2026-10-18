@@ -68926,3 +68926,28 @@
 2026-10-09 & Rocky 1415PM .0625 AMSNACK 3000 iu NOW vitamina 1/4096 tsp KI 1830PM .0625 PMSNACK \
 2026-10-09 & Daisy 0420AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1610PM .8mg soloxine \
 2026-10-09 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK garlic 10mg glycinate Cu \
+2026-10-10 & AMSNACK 0425AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 1/16 tsp sbenz 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp oliveoil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32tsp nutricost B-3 25mg B-6 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 800mg isoleucine 650mg lysinehcl 650mg threonine 250mg methionine \
+2026-10-10 & DAMSNACK 0425AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 1/16 tsp sbenz 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32tsp nutricost B-3 25mg B-6 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 2 800mg isoleucine 2 650mg lysinehcl 2 650mg threonine 250mg methionine \
+2026-10-10 & ( EVENT ) \
+2026-10-10 & Happy .125 AMSNACK ( .0625 PMDINNER .25 PMSNACK ) \
+2026-10-10 & Claire .125 AMSNACK ( 0.5 PMDINNER .25 PMSNACK ) \
+2026-10-10 & ( Dexter .05 xAMSNACK ) \
+2026-10-10 & Autumn .125 AMSNACK ( 1 PMDINNER .25 PMSNACK ) \
+2026-10-10 & ( Rocky .0625 AMSNACK .0625 PMSNACK ) \
+2026-10-10 & Daisy 0415AM .8mg soloxine 1/2 DAMSNACK ( .45 PMDINNER 2/3 DPMSNACK ) \
+2026-10-10 & Lovebug 1/2 DAMSNACK ( .45 PMDINNER 1/3 DPMSNACK ) \
+2026-10-18 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-10-18 & AMSNACK 1015AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp soybeanoil 200mg krilloil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 1mg B-12 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 1/16 tsp tryptophan 500mg phenylalanine 650mg leucine 650mg lysinehcl 1/16 tsp histidinehcl 650mg threonine 250mg methionine \
+2026-10-18 & DAMSNACK 1015AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp soybeanoil 200mg krilloil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 1mg B-12 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 2 1/16 tsp tryptophan 500mg phenylalanine 2 650mg leucine 2 650mg lysinehcl 1/16 tsp histidinehcl 2 650mg threonine 250mg methionine \
+2026-10-18 & ( PMDINNER 1230PM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth ) \
+2026-10-18 & ( PMSNACK 1300PM cb20ngnc .5 clbrothbs .5 ctbroth noshrimp nosalmonbroth spinach carrot garlic 11PC eggo3 bulk lecithin oliveoil taurine 0tsp bs B-1 0mg bs B-3 200mg B-6 1500mcg B-12 biotin 0 LESI novitaminc nopantothenate nolipoicacid 15mg K2 0x2mg noCu 0x8mg noMn noarginine noMgcitrate notryptophan nophenylalanine notyrosine novaline noisoleucine noleucine nolysinehcl nohistidinehcl nothreonine nomethionine ) \
+2026-10-18 & ( EVENT ) \
+2026-10-18 & NOTE Happy barking and running when I got home and also today only weak coughing in some cases mostly stealth mode but some weasing. Everyone braking when I got back except maybe Dexter. Maybe krill but suspect soybean oil \
+2026-10-18 & COMMENT everyone doing well Happy barking very little coughing lots of running even Rocky was barking but he did not leave bed. probably soybean oil largely but need to go back and check recent changes \
+2026-10-18 & Happy .125 AMSNACK 1945PM 5/2 mg glycinate Cu ( .0625 PMDINNER .25 PMSNACK ) \
+2026-10-18 & Claire .125 AMSNACK ( 0.5 PMDINNER .25 PMSNACK ) \
+2026-10-18 & Dexter 1945PM .125 AMSNACK \
+2026-10-18 & Autumn .125 AMSNACK ( 1 PMDINNER .25 PMSNACK ) \
+2026-10-18 & Rocky 1520PM .0625 AMSNACK 1945PM 5/3 mg glycinate Cu ( .0625 PMSNACK ) \
+2026-10-18 & Daisy 0430AM .8mg soloxine 1/2 DAMSNACK 1630PM .8mg soloxine ( .45 PMDINNER 2/3 DPMSNACK ) \
+2026-10-18 & Lovebug 1/2 DAMSNACK 1945PM 5mg glycinate Cu ( .45 PMDINNER 1/3 DPMSNACK ) \
