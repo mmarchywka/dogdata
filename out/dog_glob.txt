@@ -849724,3 +849724,293 @@
 20765 2026-11-08 9.91667 Lovebug arginine - 700 mg amino acid vitamin
 20765 2026-11-08 9.91667 Lovebug valine - 800 mg amino acid vitamin
 20765 2026-11-08 9.91667 Lovebug threonine - 650 mg amino acid vitamin
+20766 2026-11-09 4.91667 Happy b20ngnc - 0.125 - food meat
+20766 2026-11-09 4.91667 Happy ctbrothbs - 0.0625 - chicken food meat
+20766 2026-11-09 4.91667 Happy ctbroth - 0.0625 - chicken food meat
+20766 2026-11-09 4.91667 Happy spinach - 0.125 - food frozen vegetable
+20766 2026-11-09 4.91667 Happy carrot - 0.125 - food vegetable
+20766 2026-11-09 4.91667 Happy citrate - 0.03125 tsp~"citrate" food spice
+20766 2026-11-09 4.91667 Happy KCl - 0.03125 tsp~"kcl" electrolyte food
+20766 2026-11-09 4.91667 Happy eggo3 - 0.0625 - food
+20766 2026-11-09 4.91667 Happy liqlecithin - 0.0625 tsp emulsifier vitamin
+20766 2026-11-09 4.91667 Happy oliveoil - 0.0625 tsp food
+20766 2026-11-09 4.91667 Happy krilloil - 25 mg fish food oil supplement
+20766 2026-11-09 4.91667 Happy taurine - 112.5 mg vitamin
+20766 2026-11-09 4.91667 Happy B-2 - 8.125 mg vitamin
+20766 2026-11-09 4.91667 Happy B-3 - 11.875 mg generic vitamin
+20766 2026-11-09 4.91667 Happy folate - 0.0625 mg generic vitamin
+20766 2026-11-09 4.91667 Happy vitamina - 1125 iu vitamin
+20766 2026-11-09 4.91667 Happy vitaminc - 9.375 mg vitamin
+20766 2026-11-09 4.91667 Happy pantothenate - 39.0625 mg SMVT substrate vitamin
+20766 2026-11-09 4.91667 Happy K1 - 1.25 mg vitamin
+20766 2026-11-09 4.91667 Happy MgCitrate - 50 mg mineral vitamin
+20766 2026-11-09 4.91667 Happy phenylalanine - 62.5 mg amino acid vitamin
+20766 2026-11-09 4.91667 Happy isoleucine - 100 mg amino acid pure supplement vitamin
+20766 2026-11-09 4.91667 Happy lysinehcl - 81.25 mg amino acid vitamin
+20766 2026-11-09 4.91667 Happy histidinehcl - 42.875 mg amino acid vitamin
+20766 2026-11-09 4.91667 Happy threonine - 81.25 mg amino acid vitamin
+20766 2026-11-09 4.91667 Happy methionine - 31.25 mg amino acid vitamin
+20766 2026-11-09 10 Happy kibble - 0.0625 - commercial dogfood food generic
+20766 2026-11-09 10 Happy b20ngnc - 0.0625 - food meat
+20766 2026-11-09 10 Happy ctbrothbs - 0.03125 - chicken food meat
+20766 2026-11-09 10 Happy ctbroth - 0.03125 - chicken food meat
+20766 2026-11-09 10.0833 Happy b20ngnc - 0.25 - food meat
+20766 2026-11-09 10.0833 Happy ctbrothbs - 0.125 - chicken food meat
+20766 2026-11-09 10.0833 Happy ctbroth - 0.125 - chicken food meat
+20766 2026-11-09 10.0833 Happy shrimp - 8.09986 grams food seafood
+20766 2026-11-09 10.0833 Happy spinach - 0.25 - food frozen vegetable
+20766 2026-11-09 10.0833 Happy carrot - 0.25 - food vegetable
+20766 2026-11-09 10.0833 Happy garlic - 0.25 - food herb spice
+20766 2026-11-09 10.0833 Happy citrate - 0.0625 tsp~"citrate" food spice
+20766 2026-11-09 10.0833 Happy KCl - 0.0625 tsp~"kcl" electrolyte food
+20766 2026-11-09 10.0833 Happy liqlecithin - 0.125 tsp emulsifier vitamin
+20766 2026-11-09 10.0833 Happy soybeanoil - 0.125 tsp food oil
+20766 2026-11-09 10.0833 Happy B-3 - 11.875 mg generic vitamin
+20766 2026-11-09 10.0833 Happy biotin - 1.25 mg vitamin
+20766 2026-11-09 10.0833 Happy K2 - 1.25 mg vitamin
+20766 2026-11-09 10.0833 Happy leucine - 162.5 mg amino acid pure supplement vitamin
+20766 2026-11-09 10.0833 Happy lysinehcl - 162.5 mg amino acid vitamin
+20766 2026-11-09 10.0833 Happy threonine - 162.5 mg amino acid vitamin
+20766 2026-11-09 11.8333 Happy weight - 16.8 lbs outcome
+20766 2026-11-09 6.08333 Claire b20ngnc - 0.125 - food meat
+20766 2026-11-09 6.08333 Claire ctbrothbs - 0.0625 - chicken food meat
+20766 2026-11-09 6.08333 Claire ctbroth - 0.0625 - chicken food meat
+20766 2026-11-09 6.08333 Claire spinach - 0.125 - food frozen vegetable
+20766 2026-11-09 6.08333 Claire carrot - 0.125 - food vegetable
+20766 2026-11-09 6.08333 Claire citrate - 0.03125 tsp~"citrate" food spice
+20766 2026-11-09 6.08333 Claire KCl - 0.03125 tsp~"kcl" electrolyte food
+20766 2026-11-09 6.08333 Claire eggo3 - 0.0625 - food
+20766 2026-11-09 6.08333 Claire liqlecithin - 0.0625 tsp emulsifier vitamin
+20766 2026-11-09 6.08333 Claire oliveoil - 0.0625 tsp food
+20766 2026-11-09 6.08333 Claire krilloil - 25 mg fish food oil supplement
+20766 2026-11-09 6.08333 Claire taurine - 112.5 mg vitamin
+20766 2026-11-09 6.08333 Claire B-2 - 8.125 mg vitamin
+20766 2026-11-09 6.08333 Claire B-3 - 11.875 mg generic vitamin
+20766 2026-11-09 6.08333 Claire folate - 0.0625 mg generic vitamin
+20766 2026-11-09 6.08333 Claire vitamina - 1125 iu vitamin
+20766 2026-11-09 6.08333 Claire vitaminc - 9.375 mg vitamin
+20766 2026-11-09 6.08333 Claire pantothenate - 39.0625 mg SMVT substrate vitamin
+20766 2026-11-09 6.08333 Claire K1 - 1.25 mg vitamin
+20766 2026-11-09 6.08333 Claire MgCitrate - 50 mg mineral vitamin
+20766 2026-11-09 6.08333 Claire phenylalanine - 62.5 mg amino acid vitamin
+20766 2026-11-09 6.08333 Claire isoleucine - 100 mg amino acid pure supplement vitamin
+20766 2026-11-09 6.08333 Claire lysinehcl - 81.25 mg amino acid vitamin
+20766 2026-11-09 6.08333 Claire histidinehcl - 42.875 mg amino acid vitamin
+20766 2026-11-09 6.08333 Claire threonine - 81.25 mg amino acid vitamin
+20766 2026-11-09 6.08333 Claire methionine - 31.25 mg amino acid vitamin
+20766 2026-11-09 10 Claire kibble - 0.5 - commercial dogfood food generic
+20766 2026-11-09 10 Claire b20ngnc - 0.5 - food meat
+20766 2026-11-09 10 Claire ctbrothbs - 0.25 - chicken food meat
+20766 2026-11-09 10 Claire ctbroth - 0.25 - chicken food meat
+20766 2026-11-09 10.0833 Claire b20ngnc - 0.25 - food meat
+20766 2026-11-09 10.0833 Claire ctbrothbs - 0.125 - chicken food meat
+20766 2026-11-09 10.0833 Claire ctbroth - 0.125 - chicken food meat
+20766 2026-11-09 10.0833 Claire shrimp - 8.09986 grams food seafood
+20766 2026-11-09 10.0833 Claire spinach - 0.25 - food frozen vegetable
+20766 2026-11-09 10.0833 Claire carrot - 0.25 - food vegetable
+20766 2026-11-09 10.0833 Claire garlic - 0.25 - food herb spice
+20766 2026-11-09 10.0833 Claire citrate - 0.0625 tsp~"citrate" food spice
+20766 2026-11-09 10.0833 Claire KCl - 0.0625 tsp~"kcl" electrolyte food
+20766 2026-11-09 10.0833 Claire liqlecithin - 0.125 tsp emulsifier vitamin
+20766 2026-11-09 10.0833 Claire soybeanoil - 0.125 tsp food oil
+20766 2026-11-09 10.0833 Claire B-3 - 11.875 mg generic vitamin
+20766 2026-11-09 10.0833 Claire biotin - 1.25 mg vitamin
+20766 2026-11-09 10.0833 Claire K2 - 1.25 mg vitamin
+20766 2026-11-09 10.0833 Claire leucine - 162.5 mg amino acid pure supplement vitamin
+20766 2026-11-09 10.0833 Claire lysinehcl - 162.5 mg amino acid vitamin
+20766 2026-11-09 10.0833 Claire threonine - 162.5 mg amino acid vitamin
+20766 2026-11-09 11.8333 Claire weight - 16 lbs outcome
+20766 2026-11-09 6.08333 Gizmo b20ngnc - 0.125 - food meat
+20766 2026-11-09 6.08333 Gizmo ctbrothbs - 0.0625 - chicken food meat
+20766 2026-11-09 6.08333 Gizmo ctbroth - 0.0625 - chicken food meat
+20766 2026-11-09 6.08333 Gizmo spinach - 0.125 - food frozen vegetable
+20766 2026-11-09 6.08333 Gizmo carrot - 0.125 - food vegetable
+20766 2026-11-09 6.08333 Gizmo citrate - 0.03125 tsp~"citrate" food spice
+20766 2026-11-09 6.08333 Gizmo KCl - 0.03125 tsp~"kcl" electrolyte food
+20766 2026-11-09 6.08333 Gizmo eggo3 - 0.0625 - food
+20766 2026-11-09 6.08333 Gizmo liqlecithin - 0.0625 tsp emulsifier vitamin
+20766 2026-11-09 6.08333 Gizmo oliveoil - 0.0625 tsp food
+20766 2026-11-09 6.08333 Gizmo krilloil - 25 mg fish food oil supplement
+20766 2026-11-09 6.08333 Gizmo taurine - 112.5 mg vitamin
+20766 2026-11-09 6.08333 Gizmo B-2 - 8.125 mg vitamin
+20766 2026-11-09 6.08333 Gizmo B-3 - 11.875 mg generic vitamin
+20766 2026-11-09 6.08333 Gizmo folate - 0.0625 mg generic vitamin
+20766 2026-11-09 6.08333 Gizmo vitamina - 1125 iu vitamin
+20766 2026-11-09 6.08333 Gizmo vitaminc - 9.375 mg vitamin
+20766 2026-11-09 6.08333 Gizmo pantothenate - 39.0625 mg SMVT substrate vitamin
+20766 2026-11-09 6.08333 Gizmo K1 - 1.25 mg vitamin
+20766 2026-11-09 6.08333 Gizmo MgCitrate - 50 mg mineral vitamin
+20766 2026-11-09 6.08333 Gizmo phenylalanine - 62.5 mg amino acid vitamin
+20766 2026-11-09 6.08333 Gizmo isoleucine - 100 mg amino acid pure supplement vitamin
+20766 2026-11-09 6.08333 Gizmo lysinehcl - 81.25 mg amino acid vitamin
+20766 2026-11-09 6.08333 Gizmo histidinehcl - 42.875 mg amino acid vitamin
+20766 2026-11-09 6.08333 Gizmo threonine - 81.25 mg amino acid vitamin
+20766 2026-11-09 6.08333 Gizmo methionine - 31.25 mg amino acid vitamin
+20766 2026-11-09 10 Gizmo kibble - 0.5 - commercial dogfood food generic
+20766 2026-11-09 10 Gizmo b20ngnc - 0.5 - food meat
+20766 2026-11-09 10 Gizmo ctbrothbs - 0.25 - chicken food meat
+20766 2026-11-09 10 Gizmo ctbroth - 0.25 - chicken food meat
+20766 2026-11-09 10.0833 Gizmo b20ngnc - 0.125 - food meat
+20766 2026-11-09 10.0833 Gizmo ctbrothbs - 0.0625 - chicken food meat
+20766 2026-11-09 10.0833 Gizmo ctbroth - 0.0625 - chicken food meat
+20766 2026-11-09 10.0833 Gizmo shrimp - 4.04993 grams food seafood
+20766 2026-11-09 10.0833 Gizmo spinach - 0.125 - food frozen vegetable
+20766 2026-11-09 10.0833 Gizmo carrot - 0.125 - food vegetable
+20766 2026-11-09 10.0833 Gizmo garlic - 0.125 - food herb spice
+20766 2026-11-09 10.0833 Gizmo citrate - 0.03125 tsp~"citrate" food spice
+20766 2026-11-09 10.0833 Gizmo KCl - 0.03125 tsp~"kcl" electrolyte food
+20766 2026-11-09 10.0833 Gizmo liqlecithin - 0.0625 tsp emulsifier vitamin
+20766 2026-11-09 10.0833 Gizmo soybeanoil - 0.0625 tsp food oil
+20766 2026-11-09 10.0833 Gizmo B-3 - 5.9375 mg generic vitamin
+20766 2026-11-09 10.0833 Gizmo biotin - 0.625 mg vitamin
+20766 2026-11-09 10.0833 Gizmo K2 - 0.625 mg vitamin
+20766 2026-11-09 10.0833 Gizmo leucine - 81.25 mg amino acid pure supplement vitamin
+20766 2026-11-09 10.0833 Gizmo lysinehcl - 81.25 mg amino acid vitamin
+20766 2026-11-09 10.0833 Gizmo threonine - 81.25 mg amino acid vitamin
+20766 2026-11-09 11.8333 Gizmo weight - 15 lbs outcome
+20766 2026-11-09 11.8333 Dexter weight - 5.6 lbs outcome
+20766 2026-11-09 7.75 Autumn b20ngnc - 0.125 - food meat
+20766 2026-11-09 7.75 Autumn ctbrothbs - 0.0625 - chicken food meat
+20766 2026-11-09 7.75 Autumn ctbroth - 0.0625 - chicken food meat
+20766 2026-11-09 7.75 Autumn spinach - 0.125 - food frozen vegetable
+20766 2026-11-09 7.75 Autumn carrot - 0.125 - food vegetable
+20766 2026-11-09 7.75 Autumn citrate - 0.03125 tsp~"citrate" food spice
+20766 2026-11-09 7.75 Autumn KCl - 0.03125 tsp~"kcl" electrolyte food
+20766 2026-11-09 7.75 Autumn eggo3 - 0.0625 - food
+20766 2026-11-09 7.75 Autumn liqlecithin - 0.0625 tsp emulsifier vitamin
+20766 2026-11-09 7.75 Autumn oliveoil - 0.0625 tsp food
+20766 2026-11-09 7.75 Autumn krilloil - 25 mg fish food oil supplement
+20766 2026-11-09 7.75 Autumn taurine - 112.5 mg vitamin
+20766 2026-11-09 7.75 Autumn B-2 - 8.125 mg vitamin
+20766 2026-11-09 7.75 Autumn B-3 - 11.875 mg generic vitamin
+20766 2026-11-09 7.75 Autumn folate - 0.0625 mg generic vitamin
+20766 2026-11-09 7.75 Autumn vitamina - 1125 iu vitamin
+20766 2026-11-09 7.75 Autumn vitaminc - 9.375 mg vitamin
+20766 2026-11-09 7.75 Autumn pantothenate - 39.0625 mg SMVT substrate vitamin
+20766 2026-11-09 7.75 Autumn K1 - 1.25 mg vitamin
+20766 2026-11-09 7.75 Autumn MgCitrate - 50 mg mineral vitamin
+20766 2026-11-09 7.75 Autumn phenylalanine - 62.5 mg amino acid vitamin
+20766 2026-11-09 7.75 Autumn isoleucine - 100 mg amino acid pure supplement vitamin
+20766 2026-11-09 7.75 Autumn lysinehcl - 81.25 mg amino acid vitamin
+20766 2026-11-09 7.75 Autumn histidinehcl - 42.875 mg amino acid vitamin
+20766 2026-11-09 7.75 Autumn threonine - 81.25 mg amino acid vitamin
+20766 2026-11-09 7.75 Autumn methionine - 31.25 mg amino acid vitamin
+20766 2026-11-09 10 Autumn kibble - 1 - commercial dogfood food generic
+20766 2026-11-09 10 Autumn b20ngnc - 1 - food meat
+20766 2026-11-09 10 Autumn ctbrothbs - 0.5 - chicken food meat
+20766 2026-11-09 10 Autumn ctbroth - 0.5 - chicken food meat
+20766 2026-11-09 10.0833 Autumn b20ngnc - 0.25 - food meat
+20766 2026-11-09 10.0833 Autumn ctbrothbs - 0.125 - chicken food meat
+20766 2026-11-09 10.0833 Autumn ctbroth - 0.125 - chicken food meat
+20766 2026-11-09 10.0833 Autumn shrimp - 8.09986 grams food seafood
+20766 2026-11-09 10.0833 Autumn spinach - 0.25 - food frozen vegetable
+20766 2026-11-09 10.0833 Autumn carrot - 0.25 - food vegetable
+20766 2026-11-09 10.0833 Autumn garlic - 0.25 - food herb spice
+20766 2026-11-09 10.0833 Autumn citrate - 0.0625 tsp~"citrate" food spice
+20766 2026-11-09 10.0833 Autumn KCl - 0.0625 tsp~"kcl" electrolyte food
+20766 2026-11-09 10.0833 Autumn liqlecithin - 0.125 tsp emulsifier vitamin
+20766 2026-11-09 10.0833 Autumn soybeanoil - 0.125 tsp food oil
+20766 2026-11-09 10.0833 Autumn B-3 - 11.875 mg generic vitamin
+20766 2026-11-09 10.0833 Autumn biotin - 1.25 mg vitamin
+20766 2026-11-09 10.0833 Autumn K2 - 1.25 mg vitamin
+20766 2026-11-09 10.0833 Autumn leucine - 162.5 mg amino acid pure supplement vitamin
+20766 2026-11-09 10.0833 Autumn lysinehcl - 162.5 mg amino acid vitamin
+20766 2026-11-09 10.0833 Autumn threonine - 162.5 mg amino acid vitamin
+20766 2026-11-09 11.8333 Rocky weight - 6.6 lbs outcome
+20766 2026-11-09 4.16667 Daisy soloxine - 0.8 mg medicine thyroid
+20766 2026-11-09 4.91667 Daisy b20ngnc - 0.5 - food meat
+20766 2026-11-09 4.91667 Daisy ctbrothbs - 0.25 - chicken food meat
+20766 2026-11-09 4.91667 Daisy ctbroth - 0.25 - chicken food meat
+20766 2026-11-09 4.91667 Daisy spinach - 0.5 - food frozen vegetable
+20766 2026-11-09 4.91667 Daisy carrot - 0.5 - food vegetable
+20766 2026-11-09 4.91667 Daisy citrate - 0.25 tsp~"citrate" food spice
+20766 2026-11-09 4.91667 Daisy KCl - 0.25 tsp~"kcl" electrolyte food
+20766 2026-11-09 4.91667 Daisy eggo3 - 0.5 - food
+20766 2026-11-09 4.91667 Daisy liqlecithin - 0.25 tsp emulsifier vitamin
+20766 2026-11-09 4.91667 Daisy oliveoil - 0.5 tsp food
+20766 2026-11-09 4.91667 Daisy krilloil - 100 mg fish food oil supplement
+20766 2026-11-09 4.91667 Daisy taurine - 450 mg vitamin
+20766 2026-11-09 4.91667 Daisy B-2 - 32.5 mg vitamin
+20766 2026-11-09 4.91667 Daisy B-3 - 47.5 mg generic vitamin
+20766 2026-11-09 4.91667 Daisy folate - 0.25 mg generic vitamin
+20766 2026-11-09 4.91667 Daisy vitamina - 9000 iu vitamin
+20766 2026-11-09 4.91667 Daisy vitaminc - 37.5 mg vitamin
+20766 2026-11-09 4.91667 Daisy pantothenate - 156.25 mg SMVT substrate vitamin
+20766 2026-11-09 4.91667 Daisy K1 - 5 mg vitamin
+20766 2026-11-09 4.91667 Daisy MgCitrate - 200 mg mineral vitamin
+20766 2026-11-09 4.91667 Daisy phenylalanine - 250 mg amino acid vitamin
+20766 2026-11-09 4.91667 Daisy isoleucine - 800 mg amino acid pure supplement vitamin
+20766 2026-11-09 4.91667 Daisy lysinehcl - 650 mg amino acid vitamin
+20766 2026-11-09 4.91667 Daisy histidinehcl - 171.5 mg amino acid vitamin
+20766 2026-11-09 4.91667 Daisy threonine - 650 mg amino acid vitamin
+20766 2026-11-09 4.91667 Daisy methionine - 125 mg amino acid vitamin
+20766 2026-11-09 10 Daisy kibble - 0.5 - commercial dogfood food generic
+20766 2026-11-09 10 Daisy b20ngnc - 0.5 - food meat
+20766 2026-11-09 10 Daisy ctbrothbs - 0.25 - chicken food meat
+20766 2026-11-09 10 Daisy ctbroth - 0.25 - chicken food meat
+20766 2026-11-09 10.0833 Daisy b20ngnc - 0.5 - food meat
+20766 2026-11-09 10.0833 Daisy ctbrothbs - 0.25 - chicken food meat
+20766 2026-11-09 10.0833 Daisy ctbroth - 0.25 - chicken food meat
+20766 2026-11-09 10.0833 Daisy shrimp - 16.1997 grams food seafood
+20766 2026-11-09 10.0833 Daisy spinach - 0.5 - food frozen vegetable
+20766 2026-11-09 10.0833 Daisy carrot - 0.5 - food vegetable
+20766 2026-11-09 10.0833 Daisy garlic - 0.5 - food herb spice
+20766 2026-11-09 10.0833 Daisy citrate - 0.25 tsp~"citrate" food spice
+20766 2026-11-09 10.0833 Daisy KCl - 0.25 tsp~"kcl" electrolyte food
+20766 2026-11-09 10.0833 Daisy liqlecithin - 0.25 tsp emulsifier vitamin
+20766 2026-11-09 10.0833 Daisy soybeanoil - 0.5 tsp food oil
+20766 2026-11-09 10.0833 Daisy B-3 - 23.75 mg generic vitamin
+20766 2026-11-09 10.0833 Daisy biotin - 2.5 mg vitamin
+20766 2026-11-09 10.0833 Daisy K2 - 2.5 mg vitamin
+20766 2026-11-09 10.0833 Daisy leucine - 650 mg amino acid pure supplement vitamin
+20766 2026-11-09 10.0833 Daisy lysinehcl - 650 mg amino acid vitamin
+20766 2026-11-09 10.0833 Daisy threonine - 650 mg amino acid vitamin
+20766 2026-11-09 11.8333 Daisy weight - 97.4 lbs outcome
+20766 2026-11-09 4.91667 Lovebug b20ngnc - 0.5 - food meat
+20766 2026-11-09 4.91667 Lovebug ctbrothbs - 0.25 - chicken food meat
+20766 2026-11-09 4.91667 Lovebug ctbroth - 0.25 - chicken food meat
+20766 2026-11-09 4.91667 Lovebug spinach - 0.5 - food frozen vegetable
+20766 2026-11-09 4.91667 Lovebug carrot - 0.5 - food vegetable
+20766 2026-11-09 4.91667 Lovebug citrate - 0.25 tsp~"citrate" food spice
+20766 2026-11-09 4.91667 Lovebug KCl - 0.25 tsp~"kcl" electrolyte food
+20766 2026-11-09 4.91667 Lovebug eggo3 - 0.5 - food
+20766 2026-11-09 4.91667 Lovebug liqlecithin - 0.25 tsp emulsifier vitamin
+20766 2026-11-09 4.91667 Lovebug oliveoil - 0.5 tsp food
+20766 2026-11-09 4.91667 Lovebug krilloil - 100 mg fish food oil supplement
+20766 2026-11-09 4.91667 Lovebug taurine - 450 mg vitamin
+20766 2026-11-09 4.91667 Lovebug B-2 - 32.5 mg vitamin
+20766 2026-11-09 4.91667 Lovebug B-3 - 47.5 mg generic vitamin
+20766 2026-11-09 4.91667 Lovebug folate - 0.25 mg generic vitamin
+20766 2026-11-09 4.91667 Lovebug vitamina - 9000 iu vitamin
+20766 2026-11-09 4.91667 Lovebug vitaminc - 37.5 mg vitamin
+20766 2026-11-09 4.91667 Lovebug pantothenate - 156.25 mg SMVT substrate vitamin
+20766 2026-11-09 4.91667 Lovebug K1 - 5 mg vitamin
+20766 2026-11-09 4.91667 Lovebug MgCitrate - 200 mg mineral vitamin
+20766 2026-11-09 4.91667 Lovebug phenylalanine - 250 mg amino acid vitamin
+20766 2026-11-09 4.91667 Lovebug isoleucine - 800 mg amino acid pure supplement vitamin
+20766 2026-11-09 4.91667 Lovebug lysinehcl - 650 mg amino acid vitamin
+20766 2026-11-09 4.91667 Lovebug histidinehcl - 171.5 mg amino acid vitamin
+20766 2026-11-09 4.91667 Lovebug threonine - 650 mg amino acid vitamin
+20766 2026-11-09 4.91667 Lovebug methionine - 125 mg amino acid vitamin
+20766 2026-11-09 10 Lovebug kibble - 1 - commercial dogfood food generic
+20766 2026-11-09 10 Lovebug b20ngnc - 1 - food meat
+20766 2026-11-09 10 Lovebug ctbrothbs - 0.5 - chicken food meat
+20766 2026-11-09 10 Lovebug ctbroth - 0.5 - chicken food meat
+20766 2026-11-09 10.0833 Lovebug b20ngnc - 0.5 - food meat
+20766 2026-11-09 10.0833 Lovebug ctbrothbs - 0.25 - chicken food meat
+20766 2026-11-09 10.0833 Lovebug ctbroth - 0.25 - chicken food meat
+20766 2026-11-09 10.0833 Lovebug shrimp - 16.1997 grams food seafood
+20766 2026-11-09 10.0833 Lovebug spinach - 0.5 - food frozen vegetable
+20766 2026-11-09 10.0833 Lovebug carrot - 0.5 - food vegetable
+20766 2026-11-09 10.0833 Lovebug garlic - 0.5 - food herb spice
+20766 2026-11-09 10.0833 Lovebug citrate - 0.25 tsp~"citrate" food spice
+20766 2026-11-09 10.0833 Lovebug KCl - 0.25 tsp~"kcl" electrolyte food
+20766 2026-11-09 10.0833 Lovebug liqlecithin - 0.25 tsp emulsifier vitamin
+20766 2026-11-09 10.0833 Lovebug soybeanoil - 0.5 tsp food oil
+20766 2026-11-09 10.0833 Lovebug B-3 - 23.75 mg generic vitamin
+20766 2026-11-09 10.0833 Lovebug biotin - 2.5 mg vitamin
+20766 2026-11-09 10.0833 Lovebug K2 - 2.5 mg vitamin
+20766 2026-11-09 10.0833 Lovebug leucine - 650 mg amino acid pure supplement vitamin
+20766 2026-11-09 10.0833 Lovebug lysinehcl - 650 mg amino acid vitamin
+20766 2026-11-09 10.0833 Lovebug threonine - 650 mg amino acid vitamin
+20766 2026-11-09 11.8333 Lovebug weight - 53 lbs outcome

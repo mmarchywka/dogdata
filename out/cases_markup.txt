@@ -69251,3 +69251,18 @@
 2026-11-08 & Gizmo 0650AM .125 AMSNACK 1050AM .125 PMSNACK 1/64 tsp tryptophan .1 PMDINNER \
 2026-11-08 & Daisy 0410AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1610PM .8 mg soloxine \
 2026-11-08 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK \
+2026-11-09 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-11-09 & AMSNACK 0455AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp oliveoil 200mg krilloil 900mg bulk taurine 1/32 tsp B-2 1/32 tsp nutricost B-3 .5mg folate 9000 iu NOW vitamina 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 500mg phenylalanine 800mg isoleucine 650mg lysinehcl 1/16 tsp histidinehcl 650mg threonine 250mg methionine \
+2026-11-09 & DAMSNACK 0455AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 200mg krilloil 900mg bulk taurine 1/32 tsp B-2 1/32 tsp nutricost B-3 .5mg folate 2 9000 iu NOW vitamina 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 500mg phenylalanine 2 800mg isoleucine 2 650mg lysinehcl 1/16 tsp histidinehcl 2 650mg threonine 250mg methionine \
+2026-11-09 & PMDINNER 1000AM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth \
+2026-11-09 & PMSNACK 1005AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp gv spinach carrot garlic 11PC 1/2 tsp liquid lecithin 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 5mg bs biotin 5mg LE K2 650mg leucine 650mg lysinehcl 650mg threonine \
+2026-11-09 & DPMSNACK 1005AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp gv spinach carrot garlic 2 11PC 1/2 tsp liquid lecithin 2 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 5mg bs biotin 5mg LE K2 2 650mg leucine 2 650mg lysinehcl 2 650mg threonine \
+2026-11-09 & ( EVENT ) \
+2026-11-09 & Happy .125 AMSNACK .0625 PMDINNER .25 PMSNACK 1150AM 16.8 lbs weight \
+2026-11-09 & Claire 0605AM .125 AMSNACK 0.5 PMDINNER .25 PMSNACK 1150AM 16 lbs weight \
+2026-11-09 & Gizmo 0605AM .125 AMSNACK 0.5 PMDINNER .125 PMSNACK 1150AM 15 lbs weight \
+2026-11-09 & Dexter 1150AM 5.6 lbs weight ( .05 xAMSNACK 5mg bs biotin ) \
+2026-11-09 & Autumn 0745AM .125 AMSNACK 1 PMDINNER .25 PMSNACK \
+2026-11-09 & Rocky 1150AM 6.6 lbs weight ( .0625 AMSNACK 3000 iu NOW vitamina 1/4096 tsp KI .0625 PMSNACK ) \
+2026-11-09 & Daisy 0410AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1150AM 97.4 lbs weight \
+2026-11-09 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK 1150AM 53 lbs weight \
