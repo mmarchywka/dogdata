@@ -69258,11 +69258,105 @@
 2026-11-09 & PMSNACK 1005AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp gv spinach carrot garlic 11PC 1/2 tsp liquid lecithin 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 5mg bs biotin 5mg LE K2 650mg leucine 650mg lysinehcl 650mg threonine \
 2026-11-09 & DPMSNACK 1005AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp gv spinach carrot garlic 2 11PC 1/2 tsp liquid lecithin 2 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 5mg bs biotin 5mg LE K2 2 650mg leucine 2 650mg lysinehcl 2 650mg threonine \
 2026-11-09 & ( EVENT ) \
-2026-11-09 & Happy .125 AMSNACK .0625 PMDINNER .25 PMSNACK 1150AM 16.8 lbs weight \
-2026-11-09 & Claire 0605AM .125 AMSNACK 0.5 PMDINNER .25 PMSNACK 1150AM 16 lbs weight \
+2026-11-09 & NOTE Dexter checked weight again it seems right. I may have been cutting him off from food too soon lately he always leaves hungry but he eats most days pretty consistently. \
+2026-11-09 & Happy .125 AMSNACK .0625 PMDINNER .125 PMSNACK 1150AM 16.8 lbs weight \
+2026-11-09 & Claire 0605AM .125 AMSNACK 0.5 PMDINNER .125 PMSNACK 1150AM 16 lbs weight \
 2026-11-09 & Gizmo 0605AM .125 AMSNACK 0.5 PMDINNER .125 PMSNACK 1150AM 15 lbs weight \
-2026-11-09 & Dexter 1150AM 5.6 lbs weight ( .05 xAMSNACK 5mg bs biotin ) \
-2026-11-09 & Autumn 0745AM .125 AMSNACK 1 PMDINNER .25 PMSNACK \
-2026-11-09 & Rocky 1150AM 6.6 lbs weight ( .0625 AMSNACK 3000 iu NOW vitamina 1/4096 tsp KI .0625 PMSNACK ) \
-2026-11-09 & Daisy 0410AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1150AM 97.4 lbs weight \
+2026-11-09 & Dexter 1150AM 5.6 lbs weight 1845PM .125 AMSNACK 5mg bs biotin \
+2026-11-09 & Autumn 0745AM .125 AMSNACK 1 PMDINNER .125 PMSNACK \
+2026-11-09 & Rocky 1150AM 6.6 lbs weight 1505PM .0625 AMSNACK 3000 iu NOW vitamina 1/4096 tsp KI 1850PM .0625 PMSNACK \
+2026-11-09 & Daisy 0410AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1150AM 97.4 lbs weight 1620PM .8mg soloxine \
 2026-11-09 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK 1150AM 63 lbs weight \
+2026-11-10 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-11-10 & AMSNACK 0500AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 1/16 tsp sbenz 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp soybeanoil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 25mg B-6 1200 iu NOW D-3 1/8 tsp bs pantothenate 5mg LE K2 1/4 tsp argininehcl 400mg bulk Mgcitrate 1/16 tsp tryptophan 200mg tyrosine 650mg leucine 650mg threonine 250mg methionine \
+2026-11-10 & DAMSNACK 0500AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 1/16 tsp sbenz 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp soybeanoil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 25mg B-6 1200 iu NOW D-3 1/8 tsp bs pantothenate 5mg LE K2 2 1/4 tsp argininehcl 400mg bulk Mgcitrate 2 1/16 tsp tryptophan 2 200mg tyrosine 2 650mg leucine 2 650mg threonine 250mg methionine \
+2026-11-10 & PMDINNER 0945AM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth \
+2026-11-10 & PMSNACK 0950AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp gv spinach carrot 11PC 1/2 tsp liquid lecithin 1/2 tsp oliveoil 1/64 tsp nutricost B-3 25mg bs lipoicacid 1/32 tsp bs MK7 5mg glycinate Cu 1/4 tsp argininehcl 800mg valine 650mg threonine \
+2026-11-10 & DPMSNACK 0950AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp gv spinach carrot 2 11PC 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 1/64 tsp nutricost B-3 25mg bs lipoicacid 1/32 tsp bs MK7 5mg glycinate Cu 2 1/4 tsp argininehcl 2 800mg valine 2 650mg threonine \
+2026-11-10 & ( EVENT ) \
+2026-11-10 & Happy .125 AMSNACK .0625 PMDINNER .125 PMSNACK 12mg bs lipoicacid 1230PM heartgardplus \
+2026-11-10 & Claire .125 AMSNACK 0.5 PMDINNER .125 PMSNACK 1230PM heartgardplus \
+2026-11-10 & Gizmo 0600AM .125 AMSNACK 0.5 PMDINNER .125 PMSNACK 1230PM heartgardplus \
+2026-11-10 & Dexter 1815PM .125 AMSNACK 3mg bs lipoicacid .111 PMSNACK \
+2026-11-10 & Autumn .125 AMSNACK 1 PMDINNER .125 PMSNACK 1255PM heartgardplus \
+2026-11-10 & Rocky 1230PM heartgardplus 1420PM .0625 AMSNACK 1/1024 tsp fumarate Fe 1835PM .0625 PMSNACK 6 mg bs lipoicacid \
+2026-11-10 & Daisy 0410AM .8mg soloxine DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1230PM heartgardplus 1630PM .8mg soloxine \
+2026-11-10 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK 1230PM heartgardplus \
+2026-11-11 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-11-11 & AMSNACK 0455AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 1/16 tsp sbenz 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp oliveoil 200mg krilloil 1/32 tsp silica 150mg cdpcholine 1/32 tsp silica 500mg 1/8 inositol 900mg bulk taurine 1/32 tsp B-2 1/32 tsp nutricost B-3 .5 mg folate 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 200mg tyrosine 650mg leucine 650mg lysinehcl 650mg threonine \
+2026-11-11 & DAMSNACK 0455AM b20ngnc .5 ctbrothbs .5 ctbroth gv spinach carrot 1/16 tsp sbenz 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 200mg krilloil 1/32 tsp silica 150mg cdpcholine 1/32 tsp silica 500mg 1/8 inositol 900mg bulk taurine 1/32 tsp B-2 1/32 tsp nutricost B-3 .5 mg folate 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 2 200mg tyrosine 2 650mg leucine 2 650mg lysinehcl 2 650mg threonine \
+2026-11-11 & PMDINNER 1005AM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth \
+2026-11-11 & PMSNACK 1010AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp ll spinach carrot garlic 11PC 1/2 tsp liquid lecithin 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 5mg bs biotin 25mg bs lipoicacid 800 mg valine 650mg lysinehcl 650mg threonine \
+2026-11-11 & DPMSNACK 1010AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp ll spinach carrot garlic 2 11PC 1/2 tsp liquid lecithin 2 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 5mg bs biotin 25mg bs lipoicacid 2 800 mg valine 2 650mg lysinehcl 2 650mg threonine \
+2026-11-11 & ( EVENT ) \
+2026-11-11 & NOTE Happy lately has wanted to play on couch in afternoon very bored but good energy although still couging sometimes. \
+2026-11-11 & Happy .125 AMSNACK .0625 PMDINNER .125 PMSNACK 5mg glycinate Cu \
+2026-11-11 & Claire .125 AMSNACK 0.5 PMDINNER .125 PMSNACK \
+2026-11-11 & Dexter 1845PM .125 AMSNACK 1/1024 tsp fumarate Fe .125 PMSNACK \
+2026-11-11 & Autumn .125 AMSNACK 1 PMDINNER .125 PMSNACK \
+2026-11-11 & Gizmo .125 AMSNACK 1 PMDINNER .125 PMSNACK \
+2026-11-11 & Rocky 1425PM .0625 AMSNACK 1/1024 tsp fumarate Fe 1850PM .0625 PMSNACK 5/3 mg glycinate Cu \
+2026-11-11 & Daisy 0415AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1610PM .8mg soloxine \
+2026-11-11 & Lovebug 1/2 DAMSNACK 15 PMDINNER 1/2 DPMSNACK \
+2026-11-12 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-11-12 & AMSNACK 0500AM b20ngnc .5 ctbrothbs .5 ctbroth ll spinach carrot 1/32 tsp sbenz 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp soybeanoil 900mg bulk taurine 1/32 tsp B-2 1/32 tsp nutricost B-3 1mg B-12 1/8 tsp bs pantothenate 1/4 tsp K1bs 1/128 tsp fumarate Fe 1/256 tsp ZnCitrate 50mcg Se 4mg Mn 1/4 tsp argininehcl 400mg bulk Mgcitrate 1/8 tsp phenylalanine 650mg leucine 1/16 tsp histidinehcl 650mg threonine 250mg methionine \
+2026-11-12 & DAMSNACK 0500AM b20ngnc .5 ctbrothbs .5 ctbroth ll spinach carrot 1/32 tsp sbenz 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp soybeanoil 900mg bulk taurine 1/32 tsp B-2 1/32 tsp nutricost B-3 1mg B-12 1/8 tsp bs pantothenate 1/4 tsp K1bs 1/128 tsp fumarate Fe 2 1/256 tsp ZnCitrate 50mcg Se 4mg Mn 2 1/4 tsp argininehcl 400mg bulk Mgcitrate 1/8 tsp phenylalanine 2 650mg leucine 1/16 tsp histidinehcl 2 650mg threonine 250mg methionine \
+2026-11-12 & PMDINNER 0950AM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth \
+2026-11-12 & PMSNACK 0955AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp ll spinach carrot garlic 11PC 1/2 tsp liquid lecithin 1/2 tsp oliveoil 1/64 tsp nutricost B-3 5mg bs biotin 1/32 tsp bs MK7 5mg glycinate Cu 1/4 tsp argininehcl 800mg valine 650mg threonine \
+2026-11-12 & DPMSNACK 0955AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp ll spinach carrot garlic 2 11PC 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 1/64 tsp nutricost B-3 5mg bs biotin 1/32 tsp bs MK7 5mg glycinate Cu 2 1/4 tsp argininehcl 2 800mg valine 2 650mg threonine \
+2026-11-12 & ( EVENT ) \
+2026-11-12 & NOTE Claire reluctant to eat AM lately didn't want to eat until later AM today. \
+2026-11-12 & NOTE Gizmo PMDINNER units mean nothing, trying to decide how to measure these consistently means nothing she is eating everything but getting about same as Happy and Claire \
+2026-11-12 & Happy .125 AMSNACK .0625 PMDINNER .125 PMSNACK \
+2026-11-12 & Claire 0745AM .125 AMSNACK 0.5 PMDINNER .125 PMSNACK \
+2026-11-12 & Gizmo 0645AM .125 AMSNACK 0.5 PMDINNER .125 PMSNACK \
+2026-11-12 & Dexter 1820PM .125 AMSNACK 1/1024 tsp ZnCitrate .1 PMSNACK \
+2026-11-12 & Autumn 0645AM .125 AMSNACK 1 PMDINNER .125 PMSNACK \
+2026-11-12 & Rocky 1420PM .0625 AMSNACK 1/1024 tsp ZnCitrate 1825PM .0625 PMSNACK \
+2026-11-12 & Daisy 0415AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1610PM .8mg soloxine \
+2026-11-12 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK \
+2026-11-13 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-11-13 & AMSNACK 0455AM b20ngnc .5 ctbrothbs .5 ctbroth ll spinach carrot 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp oliveoil 200mg krilloil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 25mg B-6 9000 iu NOW vitamina 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 1/16 tsp tryptophan 800mg isoleucine 650mg lysinehcl 650mg threonine \
+2026-11-13 & DAMSNACK 0455AM b20ngnc .5 ctbrothbs .5 ctbroth ll spinach carrot 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 200mg krilloil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 25mg B-6 2 9000 iu NOW vitamina 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 1/4 tsp K1bs 400mg bulk Mgcitrate 2 1/16 tsp tryptophan 2 800mg isoleucine 2 650mg lysinehcl 2 650mg threonine \
+2026-11-13 & PMDINNER 0950AM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth \
+2026-11-13 & PMSNACK 0955AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp ll spinach carrot garlic 11PC 1/2 tsp liquid lecithin 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 5mg bs biotin 25mg bs lipoicacid 5mg glycinate Cu 650mg leucine 650mg lysinehcl 650mg threonine \
+2026-11-13 & DPMSNACK 0955AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp ll spinach carrot garlic 2 11PC 1/2 tsp liquid lecithin 2 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 5mg bs biotin 25mg bs lipoicacid 5mg glycinate Cu 2 650mg leucine 2 650mg lysinehcl 2 650mg threonine \
+2026-11-13 & ( EVENT ) \
+2026-11-13 & Happy .125 AMSNACK .0625 PMDINNER .125 PMSNACK \
+2026-11-13 & Claire 0610AM .125 AMSNACK 0.5 PMDINNER .125 PMSNACK \
+2026-11-13 & Gizmo 0610AM .125 AMSNACK 0.5 PMDINNER .125 PMSNACK \
+2026-11-13 & Dexter 1810PM .125 AMSNACK .05 PMSNACK \
+2026-11-13 & Autumn 0610AM .125 AMSNACK 1 PMDINNER .125 PMSNACK \
+2026-11-13 & Rocky 1425PM .0625 AMSNACK 3000 iu NOW vitamina 1815PM .0625 PMSNACK \
+2026-11-13 & Daisy 0415AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1605PM .8mg soloxine \
+2026-11-13 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK \
+2026-11-14 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-11-14 & AMSNACK 0500AM b20ngnc .5 ctbrothbs .5 ctbroth atlantic salmon ll spinach carrot 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp soybeanoil 200mg krilloil 900mg bulk taurine 1/32 tsp B-2 1/32 tsp nutricost B-3 1200 iu NOW D-3 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 15mg LE K2 1/4 tsp argininehcl 400mg bulk Mgcitrate 500mg phenylalanine 650mg leucine 650mg threonine 250mg methionine \
+2026-11-14 & DAMSNACK 0500AM b20ngnc .5 ctbrothbs .5 ctbroth atlantic salmon ll spinach carrot 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp soybeanoil 200mg krilloil 900mg bulk taurine 1/32 tsp B-2 1/32 tsp nutricost B-3 1200 iu NOW D-3 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 15mg LE K2 2 1/4 tsp argininehcl 400mg bulk Mgcitrate 500mg phenylalanine 2 650mg leucine 2 650mg threonine 250mg methionine \
+2026-11-14 & PMDINNER 0935AM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth atlantic salmonbroth \
+2026-11-14 & PMSNACK 0940AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp atlantic salmon ll spinach carrot 11PC 1/2 tsp liquid lecithin 1/2 tsp oliveoil 1/64 tsp nutricost B-3 5mg bs biotin 1/32 tsp bs MK7 1/4 tsp argininehcl 800mg valine 650mg threonine \
+2026-11-14 & DPMSNACK 0940AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp atlantic salmon ll spinach carrot 2 11PC 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 1/64 tsp nutricost B-3 5mg bs biotin 1/32 tsp bs MK7 2 1/4 tsp argininehcl 2 800mg valine 2 650mg threonine \
+2026-11-14 & ( EVENT ) \
+2026-11-14 & Happy .125 AMSNACK .0625 PMDINNER .25 PMSNACK 5mg glycinate Cu \
+2026-11-14 & Claire .125 AMSNACK 0.5 PMDINNER .25 PMSNACK \
+2026-11-14 & Gizmo .125 AMSNACK 0.5 PMDINNER .25 PMSNACK \
+2026-11-14 & Dexter 1840PM .125 AMSNACK .1 PMSNACK \
+2026-11-14 & Autumn .125 AMSNACK 1 PMDINNER .25 PMSNACK \
+2026-11-14 & Rocky 1400PM .0625 AMSNACK 1945PM .0625 PMSNACK 5/3 mg glycinate Cu \
+2026-11-14 & Daisy 0415AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1620PM .8mg soloxine \
+2026-11-14 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK 10mg glycinate Cu \
+2026-11-15 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-11-15 & AMSNACK 0500AM b20ngnc .5 ctbrothbs .5 ctbroth atlantic salmon ll spinach carrot 1/16 tsp sbenz 11PC .5 eggo3 1/2 tsp liquid lecithin 1/2 tsp oliveoil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 25mg B-6 1/2048 tsp KI 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 15mg LE K2 400mg bulk Mgcitrate 1/16 tsp tryptophan 200mg tyrosine 650mg leucine 650mg lysinehcl 1/16 tsp histidinehcl 650mg threonine 250mg methionine \
+2026-11-15 & DAMSNACK 0500AM b20ngnc .5 ctbrothbs .5 ctbroth atlantic salmon ll spinach carrot 1/16 tsp sbenz 2 11PC 2 .5 eggo3 1/2 tsp liquid lecithin 2 1/2 tsp oliveoil 900mg bulk taurine 1/32 tsp bs B-1 1/32 tsp B-2 1/32 tsp nutricost B-3 25mg B-6 1/2048 tsp KI 1/64 tsp just vitaminc 1/8 tsp bs pantothenate 15mg LE K2 400mg bulk Mgcitrate 2 1/16 tsp tryptophan 2 200mg tyrosine 2 650mg leucine 2 650mg lysinehcl 1/16 tsp histidinehcl 2 650mg threonine 250mg methionine \
+2026-11-15 & PMDINNER 0935AM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth atlantic salmonbroth \
+2026-11-15 & PMSNACK 0940AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp atlantic salmon ll spinach carrot garlic 11PC 1/2 tsp liquid lecithin 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 25mg bs lipoicacid 1/32 tsp bs MK7 800mg valine 650mg lysinehcl 650mg threonine \
+2026-11-15 & DPMSNACK 0940AM b20ngnc .5 ctbrothbs .5 ctbroth 2x2630 shrimp atlantic salmon ll spinach carrot garlic 2 11PC 1/2 tsp liquid lecithin 2 1/2 tsp soybeanoil 1/64 tsp nutricost B-3 25mg bs lipoicacid 1/32 tsp bs MK7 2 800mg valine 2 650mg lysinehcl 2 650mg threonine \
+2026-11-15 & ( EVENT ) \
+2026-11-15 & Happy .125 AMSNACK .0625 PMDINNER .125 PMSNACK \
+2026-11-15 & Claire .125 AMSNACK 0.5 PMDINNER .125 PMSNACK \
+2026-11-15 & Gizmo .125 AMSNACK 0.5 PMDINNER .125 PMSNACK \
+2026-11-15 & Dexter 1920PM .125 AMSNACK \
+2026-11-15 & Autumn .125 AMSNACK 1 PMDINNER .125 PMSNACK \
+2026-11-15 & Rocky 1358PM .0625 AMSNACK 1/4096 tsp KI 1940PM .0625 PMSNACK \
+2026-11-15 & Daisy 0415AM .8mg soloxine DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1555PM .8mg soloxine \
+2026-11-15 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK \
