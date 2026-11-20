@@ -69415,8 +69415,21 @@
 2026-11-19 & Happy .125 AMSNACK .0625 PMDINNER .125 PMSNACK \
 2026-11-19 & Claire 0645AM .125 AMSNACK 0.5 PMDINNER .125 PMSNACK \
 2026-11-19 & Gizmo .125 AMSNACK 0.5 PMDINNER .125 PMSNACK \
-2026-11-19 & ( Dexter .05 xAMSNACK 1/1024 tsp ZnCitrate ) \
+2026-11-19 & Dexter 1840PM .125 AMSNACK 1/1024 tsp ZnCitrate .05 PMSNACK \
 2026-11-19 & Autumn 0745AM .125 AMSNACK 1 PMDINNER .125 PMSNACK \
-2026-11-19 & Rocky 1440PM .0625 AMSNACK ( .0625 PMSNACK ) \
+2026-11-19 & Rocky 1440PM .0625 AMSNACK 1905PM .0625 PMSNACK \
 2026-11-19 & Daisy 0415AM .8mg soloxine 1/2 DAMSNACK .5 PMDINNER 1/2 DPMSNACK 1610PM .8mg soloxine \
 2026-11-19 & Lovebug 1/2 DAMSNACK 1 PMDINNER 1/2 DPMSNACK \
+2026-11-20 & ( KIBBLEN .6 KibbleAmJrLaPo .4 KibbleLogic ) \
+2026-11-20 & ( AMSNACK 0430AM cb20ngnc .5 clbrothbs .5 ctbroth noshrimp nosalmonbroth spinach carrot garlic 11PC eggo3 bulk lecithin oliveoil taurine 0tsp bs B-1 0mg bs B-3 200mg B-6 1500mcg B-12 biotin 0 LESI novitaminc nopantothenate nolipoicacid 15mg K2 0x2mg noCu 0x8mg noMn noarginine noMgcitrate notryptophan nophenylalanine notyrosine novaline noisoleucine noleucine nolysinehcl nohistidinehcl nothreonine nomethionine ) \
+2026-11-20 & ( PMDINNER 1230PM 1 KibbleMix2026v3 b20ngnc .5 ctbrothbs .5 ctbroth ) \
+2026-11-20 & ( PMSNACK 1300PM cb20ngnc .5 clbrothbs .5 ctbroth noshrimp nosalmonbroth spinach carrot garlic 11PC eggo3 bulk lecithin oliveoil taurine 0tsp bs B-1 0mg bs B-3 200mg B-6 1500mcg B-12 biotin 0 LESI novitaminc nopantothenate nolipoicacid 15mg K2 0x2mg noCu 0x8mg noMn noarginine noMgcitrate notryptophan nophenylalanine notyrosine novaline noisoleucine noleucine nolysinehcl nohistidinehcl nothreonine nomethionine ) \
+2026-11-20 & ( EVENT ) \
+2026-11-20 & ( Happy .125 AMSNACK .0625 PMDINNER .25 PMSNACK ) \
+2026-11-20 & ( Claire .125 AMSNACK 0.5 PMDINNER .25 PMSNACK ) \
+2026-11-20 & ( Gizmo .125 AMSNACK 0.5 PMDINNER .25 PMSNACK ) \
+2026-11-20 & ( Dexter .05 xAMSNACK ) \
+2026-11-20 & ( Autumn .125 AMSNACK 1 PMDINNER .25 PMSNACK ) \
+2026-11-20 & ( Rocky .0625 AMSNACK .0625 PMSNACK ) \
+2026-11-20 & ( Daisy 2/3 DAMSNACK .45 PMDINNER 2/3 DPMSNACK ) \
+2026-11-20 & ( Lovebug 1/3 DAMSNACK .45 PMDINNER 1/3 DPMSNACK ) \
